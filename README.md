@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--07--18%2012%3A53%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--07--18%2012%3A55%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
@@ -38,4 +38,5 @@
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
+
 Automatically updated by [Amabel/revenant](https://github.com/Amabel/revenant)
