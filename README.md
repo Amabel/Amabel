@@ -1,4 +1,6 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--07--18%2020%3A28%20(JST)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--07--18%2012%3A50%20(JST)-brightgreen?style=for-the-badge">
+
+(updated every 24 hours)
 
 # What Happened On This Day - July, 18
 
@@ -33,3 +35,7 @@
 
   - [Montserrat](https://wikipedia.org/wiki/Montserrat)
   - [Soufrière Hills](https://wikipedia.org/wiki/Soufri%C3%A8re_Hills)
+---
+
+Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
+Automatically updated by [Amabel/revenant](https://github.com/Amabel/revenant)
