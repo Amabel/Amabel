@@ -1,43 +1,36 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--07--24%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--07--25%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - July, 24
+# What Happened On This Day - July, 25
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2014 Air Algérie Flight 5017 loses contact with air traffic controllers 50 minutes after takeoff. It was travelling between Ouagadougou, Burkina Faso and Algiers. The wreckage is later found in Mali. All 116 people onboard are killed.
+- #### 2010 WikiLeaks publishes classified documents about the War in Afghanistan, one of the largest leaks in U.S. military history.
 
-  - [Air Algérie Flight 5017](https://wikipedia.org/wiki/Air_Alg%C3%A9rie_Flight_5017)
-  - [Ouagadougou](https://wikipedia.org/wiki/Ouagadougou)
-  - [Burkina Faso](https://wikipedia.org/wiki/Burkina_Faso)
-  - [Algiers](https://wikipedia.org/wiki/Algiers)
-  - [Mali](https://wikipedia.org/wiki/Mali)
+  - [WikiLeaks](https://wikipedia.org/wiki/WikiLeaks)
+  - [Afghan War documents leak](https://wikipedia.org/wiki/Afghan_War_documents_leak)
 
-- #### 2013 A high-speed train derails in Spain rounding a curve with an 80 km/h (50 mph) speed limit at 190 km/h (120 mph), killing 78 passengers.
+- #### 2007 Pratibha Patil is sworn in as India's first female president.
 
-  - [Santiago de Compostela derailment](https://wikipedia.org/wiki/Santiago_de_Compostela_derailment)
-  - [Spain](https://wikipedia.org/wiki/Spain)
+  - [Pratibha Patil](https://wikipedia.org/wiki/Pratibha_Patil)
 
-- #### 2001 The Bandaranaike Airport attack is carried out by 14 Tamil Tiger commandos. 11 civilian and military aircraft are destroyed and 15 are damaged. All 14 commandos are shot dead, while 7 soldiers from the Sri Lanka Air Force are killed. In addition, 3 civilians and an engineer die. This incident slowed down the Sri Lankan economy.
+- #### 2000 Concorde Air France Flight 4590 crashes at Paris Charles de Gaulle airport, killing 113 passengers.
 
-  - [Bandaranaike Airport attack](https://wikipedia.org/wiki/Bandaranaike_Airport_attack)
-  - [Liberation Tigers of Tamil Eelam](https://wikipedia.org/wiki/Liberation_Tigers_of_Tamil_Eelam)
-  - [Sri Lanka Air Force](https://wikipedia.org/wiki/Sri_Lanka_Air_Force)
-  - [Sri Lanka](https://wikipedia.org/wiki/Sri_Lanka)
+  - [Concorde](https://wikipedia.org/wiki/Concorde)
+  - [Air France Flight 4590](https://wikipedia.org/wiki/Air_France_Flight_4590)
+  - [Charles de Gaulle Airport](https://wikipedia.org/wiki/Charles_de_Gaulle_Airport)
 
-- #### 2001 Simeon Saxe-Coburg-Gotha, the last Tsar of Bulgaria when he was a child, is sworn in as Prime Minister of Bulgaria, becoming the first monarch in history to regain political power through democratic election to a different office.
+- #### 1996 In a military coup in Burundi, Pierre Buyoya deposes Sylvestre Ntibantunganya.
 
-  - [Simeon Saxe-Coburg-Gotha](https://wikipedia.org/wiki/Simeon_Saxe-Coburg-Gotha)
-  - [List of Bulgarian monarchs](https://wikipedia.org/wiki/List_of_Bulgarian_monarchs)
-  - [Bulgaria](https://wikipedia.org/wiki/Bulgaria)
-  - [Prime Minister of Bulgaria](https://wikipedia.org/wiki/Prime_Minister_of_Bulgaria)
-  - [Election](https://wikipedia.org/wiki/Election)
+  - [1996 Burundian coup d'état](https://wikipedia.org/wiki/1996_Burundian_coup_d%27%C3%A9tat)
+  - [Pierre Buyoya](https://wikipedia.org/wiki/Pierre_Buyoya)
+  - [Sylvestre Ntibantunganya](https://wikipedia.org/wiki/Sylvestre_Ntibantunganya)
 
-- #### 1998 Russell Eugene Weston, Jr. bursts into the United States Capitol and opens fire killing two police officers. He is later ruled to be incompetent to stand trial.
+- #### 1995 A gas bottle explodes in Saint Michel station of line B of the RER (Paris regional train network). Eight are killed and 80 wounded.
 
-  - [United States Capitol shooting incident (1998)](https://wikipedia.org/wiki/United_States_Capitol_shooting_incident_(1998))
-  - [United States Capitol](https://wikipedia.org/wiki/United_States_Capitol)
+  - [1995 Paris Métro and RER bombings](https://wikipedia.org/wiki/1995_Paris_M%C3%A9tro_and_RER_bombings)
+  - [Réseau Express Régional](https://wikipedia.org/wiki/R%C3%A9seau_Express_R%C3%A9gional)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
