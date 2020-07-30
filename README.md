@@ -1,37 +1,35 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--07--29%2000%3A08%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--07--30%2000%3A09%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - July, 29
+# What Happened On This Day - July, 30
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2015 Microsoft releases Windows 10.
+- #### 2014 One hundred and fifty people are trapped after a landslide in Maharashtra, India; 20 are killed.
 
-  - [Microsoft](https://wikipedia.org/wiki/Microsoft)
-  - [Windows 10](https://wikipedia.org/wiki/Windows_10)
+  - [2014 Malin landslide](https://wikipedia.org/wiki/2014_Malin_landslide)
 
-- #### 2013 Two passenger trains collide in the Swiss municipality of Granges-près-Marnand near Lausanne injuring 25 people.
+- #### 2012 A power grid failure in Delhi leaves more than 300 million people without power in northern India.
 
-  - [Granges-près-Marnand train crash](https://wikipedia.org/wiki/Granges-pr%C3%A8s-Marnand_train_crash)
-  - [Granges-près-Marnand](https://wikipedia.org/wiki/Granges-pr%C3%A8s-Marnand)
-  - [Lausanne](https://wikipedia.org/wiki/Lausanne)
+  - [2012 India blackouts](https://wikipedia.org/wiki/2012_India_blackouts)
+  - [Delhi](https://wikipedia.org/wiki/Delhi)
 
-- #### 2010 An overloaded passenger ferry capsizes on the Kasai River in Bandundu Province, Democratic Republic of the Congo, resulting in at least 80 deaths.
+- #### 2012 A train fire kills 32 passengers and injures 27 on the Tamil Nadu Express in Andhra Pradesh, India.
 
-  - [Kasai River disaster](https://wikipedia.org/wiki/Kasai_River_disaster)
-  - [Kasai River](https://wikipedia.org/wiki/Kasai_River)
-  - [Bandundu Province](https://wikipedia.org/wiki/Bandundu_Province)
-  - [Democratic Republic of the Congo](https://wikipedia.org/wiki/Democratic_Republic_of_the_Congo)
+  - [Nellore train fire](https://wikipedia.org/wiki/Nellore_train_fire)
+  - [Tamil Nadu Express](https://wikipedia.org/wiki/Tamil_Nadu_Express)
+  - [Andhra Pradesh](https://wikipedia.org/wiki/Andhra_Pradesh)
 
-- #### 2005 Astronomers announce their discovery of the dwarf planet Eris.
+- #### 2006 The world's longest running music show Top of the Pops is broadcast for the last time on BBC Two. The show had aired for 42 years.
 
-  - [Eris (dwarf planet)](https://wikipedia.org/wiki/Eris_(dwarf_planet))
+  - [Top of the Pops](https://wikipedia.org/wiki/Top_of_the_Pops)
+  - [BBC Two](https://wikipedia.org/wiki/BBC_Two)
 
-- #### 1996 The child protection portion of the Communications Decency Act is struck down by a U.S. federal court as too broad.
+- #### 2003 In Mexico, the last 'old style' Volkswagen Beetle rolls off the assembly line.
 
-  - [Communications Decency Act](https://wikipedia.org/wiki/Communications_Decency_Act)
-  - [United States federal courts](https://wikipedia.org/wiki/United_States_federal_courts)
+  - [Volkswagen Beetle](https://wikipedia.org/wiki/Volkswagen_Beetle)
+  - [Assembly line](https://wikipedia.org/wiki/Assembly_line)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
