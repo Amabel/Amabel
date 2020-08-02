@@ -1,35 +1,36 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--01%2000%3A09%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--02%2000%3A08%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - August, 1
+# What Happened On This Day - August, 2
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2017 A suicide attack on a mosque in Heart, Afghanistan kills 20 people.
+- #### 2014 At least 146 people were killed and more than 114 injured in a factory explosion in Kunshan, Jiangsu, China.
 
-  - [Suicide attack](https://wikipedia.org/wiki/Suicide_attack)
-  - [Afghanistan](https://wikipedia.org/wiki/Afghanistan)
+  - [2014 Kunshan explosion](https://wikipedia.org/wiki/2014_Kunshan_explosion)
 
-- #### 2008 Eleven mountaineers from international expeditions died on K2, the second-highest mountain on Earth in the worst single accident in the history of K2 mountaineering.
+- #### 2005 Air France Flight 358 lands at Toronto Pearson International Airport and runs off the runway, causing the plane to burst into flames leaving 12 injuries and no fatalities.
 
-  - [2008 K2 disaster](https://wikipedia.org/wiki/2008_K2_disaster)
+  - [Air France Flight 358](https://wikipedia.org/wiki/Air_France_Flight_358)
+  - [Toronto Pearson International Airport](https://wikipedia.org/wiki/Toronto_Pearson_International_Airport)
 
-- #### 2008 The Beijing-Tianjin Intercity Railway begins operation as the fastest commuter rail system in the world.
+- #### 1999 The Gaisal train disaster claims 285 lives in Assam, India.
 
-  - [Beijing-Tianjin Intercity Railway](https://wikipedia.org/wiki/Beijing%E2%80%93Tianjin_Intercity_Railway)
+  - [Gaisal train disaster](https://wikipedia.org/wiki/Gaisal_train_disaster)
+  - [Assam](https://wikipedia.org/wiki/Assam)
 
-- #### 2007 The I-35W Mississippi River bridge spanning the Mississippi River in Minneapolis, Minnesota, collapses during the evening rush hour.
+- #### 1990 Iraq invades Kuwait, eventually leading to the Gulf War.
 
-  - [I-35W Mississippi River bridge](https://wikipedia.org/wiki/I-35W_Mississippi_River_bridge)
-  - [Mississippi River](https://wikipedia.org/wiki/Mississippi_River)
-  - [Minneapolis](https://wikipedia.org/wiki/Minneapolis)
-  - [Rush hour](https://wikipedia.org/wiki/Rush_hour)
+  - [Invasion of Kuwait](https://wikipedia.org/wiki/Invasion_of_Kuwait)
+  - [Gulf War](https://wikipedia.org/wiki/Gulf_War)
 
-- #### 2004 A supermarket fire kills 396 people and injures 500 others in Asunción, Paraguay.
+- #### 1989 A massacre is carried out by an Indian Peace Keeping Force in Sri Lanka killing 64 ethnic Tamil civilians.
 
-  - [Ycuá Bolaños supermarket fire](https://wikipedia.org/wiki/Ycu%C3%A1_Bola%C3%B1os_supermarket_fire)
-  - [Asunción, Paraguay](https://wikipedia.org/wiki/Asunci%C3%B3n,_Paraguay)
+  - [1989 Valvettiturai massacre](https://wikipedia.org/wiki/1989_Valvettiturai_massacre)
+  - [Indian Peace Keeping Force](https://wikipedia.org/wiki/Indian_Peace_Keeping_Force)
+  - [Sri Lanka](https://wikipedia.org/wiki/Sri_Lanka)
+  - [Tamils](https://wikipedia.org/wiki/Tamils)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
