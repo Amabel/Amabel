@@ -1,42 +1,41 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--03%2000%3A13%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--04%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - August, 3
+# What Happened On This Day - August, 4
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2014 A 6.1 magnitude earthquake kills at least 617 people and injures more than 2,400 in Yunnan, China.
+- #### 2007 NASA's Phoenix spacecraft is launched.
 
-  - [2014 Ludian earthquake](https://wikipedia.org/wiki/2014_Ludian_earthquake)
-  - [Yunnan](https://wikipedia.org/wiki/Yunnan)
+  - [NASA](https://wikipedia.org/wiki/NASA)
+  - [Phoenix (spacecraft)](https://wikipedia.org/wiki/Phoenix_(spacecraft))
 
-- #### 2010 Widespread rioting erupts in Karachi, Pakistan, after the assassination of a local politician, leaving at least 85 dead and at least 17 billion Pakistani rupees (US$200 million) in damage.
+- #### 2006 A massacre is carried out by Sri Lankan government forces, killing 17 employees of the French INGO Action Against Hunger (known internationally as Action Contre la Faim, or ACF).
 
-  - [2010 Karachi riots](https://wikipedia.org/wiki/2010_Karachi_riots)
-  - [Karachi](https://wikipedia.org/wiki/Karachi)
-  - [Pakistan](https://wikipedia.org/wiki/Pakistan)
-  - [Pakistani rupee](https://wikipedia.org/wiki/Pakistani_rupee)
-  - [United States dollar](https://wikipedia.org/wiki/United_States_dollar)
+  - [2006 Trincomalee massacre of NGO workers](https://wikipedia.org/wiki/2006_Trincomalee_massacre_of_NGO_workers)
+  - [Sri Lanka](https://wikipedia.org/wiki/Sri_Lanka)
+  - [International nongovernmental organization](https://wikipedia.org/wiki/International_nongovernmental_organization)
+  - [Action Against Hunger](https://wikipedia.org/wiki/Action_Against_Hunger)
 
-- #### 2007 Former Deputy Director of the Chilean secret police Raúl Iturriaga is captured after having been on the run following a conviction for kidnapping.
+- #### 1995 Operation Storm begins in Croatia.
 
-  - [Dirección de Inteligencia Nacional](https://wikipedia.org/wiki/Direcci%C3%B3n_de_Inteligencia_Nacional)
-  - [Raúl Iturriaga](https://wikipedia.org/wiki/Ra%C3%BAl_Iturriaga)
-  - [Kidnapping](https://wikipedia.org/wiki/Kidnapping)
+  - [Operation Storm](https://wikipedia.org/wiki/Operation_Storm)
+  - [Croatia](https://wikipedia.org/wiki/Croatia)
 
-- #### 2005 President of Mauritania Maaouya Ould Sid'Ahmed Taya is overthrown in a military coup while attending the funeral of King Fahd in Saudi Arabia.
+- #### 1993 A federal judge sentences Los Angeles Police Department officers Stacey Koon and Laurence Powell to 30 months in prison for violating motorist Rodney King's civil rights.
 
-  - [List of heads of state of Mauritania](https://wikipedia.org/wiki/List_of_heads_of_state_of_Mauritania)
-  - [Maaouya Ould Sid'Ahmed Taya](https://wikipedia.org/wiki/Maaouya_Ould_Sid%27Ahmed_Taya)
-  - [Coup d'état](https://wikipedia.org/wiki/Coup_d%27%C3%A9tat)
-  - [Fahd of Saudi Arabia](https://wikipedia.org/wiki/Fahd_of_Saudi_Arabia)
-  - [Saudi Arabia](https://wikipedia.org/wiki/Saudi_Arabia)
+  - [Federal judge](https://wikipedia.org/wiki/Federal_judge)
+  - [Los Angeles Police Department](https://wikipedia.org/wiki/Los_Angeles_Police_Department)
+  - [Stacey Koon](https://wikipedia.org/wiki/Stacey_Koon)
+  - [Laurence Powell](https://wikipedia.org/wiki/Laurence_Powell)
+  - [Rodney King](https://wikipedia.org/wiki/Rodney_King)
+  - [Civil and political rights](https://wikipedia.org/wiki/Civil_and_political_rights)
 
-- #### 2004 The pedestal of the Statue of Liberty reopens after being closed since the September 11 attacks.
+- #### 1987 The Federal Communications Commission rescinds the Fairness Doctrine which had required radio and television stations to present controversial issues "fairly".
 
-  - [Statue of Liberty](https://wikipedia.org/wiki/Statue_of_Liberty)
-  - [September 11 attacks](https://wikipedia.org/wiki/September_11_attacks)
+  - [Federal Communications Commission](https://wikipedia.org/wiki/Federal_Communications_Commission)
+  - [Fairness Doctrine](https://wikipedia.org/wiki/Fairness_Doctrine)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
