@@ -1,37 +1,43 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--10%2000%3A13%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--11%2000%3A08%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - August, 10
+# What Happened On This Day - August, 11
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2014 Forty people are killed when Sepahan Airlines Flight 5915 crashes at Tehran's Mehrabad Airport.
+- #### 2017 At least 41 people are killed and another 179 injured after two passenger trains collide in Alexandria, Egypt.
 
-  - [Sepahan Airlines Flight 5915](https://wikipedia.org/wiki/Sepahan_Airlines_Flight_5915)
-  - [Mehrabad Airport](https://wikipedia.org/wiki/Mehrabad_Airport)
+  - [Alexandria train collision](https://wikipedia.org/wiki/Alexandria_train_collision)
+  - [Alexandria](https://wikipedia.org/wiki/Alexandria)
+  - [Egypt](https://wikipedia.org/wiki/Egypt)
 
-- #### 2012 The Marikana massacre begins near Rustenburg, South Africa, resulting in the deaths of 47 people.
+- #### 2012 At least 306 people are killed and 3,000 others injured in a pair of earthquakes near Tabriz, Iran.
 
-  - [Marikana killings](https://wikipedia.org/wiki/Marikana_killings)
-  - [Rustenburg](https://wikipedia.org/wiki/Rustenburg)
+  - [2012 East Azerbaijan earthquakes](https://wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes)
+  - [Tabriz](https://wikipedia.org/wiki/Tabriz)
 
-- #### 2009 Twenty people are killed in Handlová, Trenčín Region, in the deadliest mining disaster in Slovakia's history.
+- #### 2006 The oil tanker M/T Solar 1 sinks off the coast of Guimaras and Negros Islands in the Philippines, causing the country's worst oil spill.
 
-  - [Handlová](https://wikipedia.org/wiki/Handlov%C3%A1)
-  - [Trenčín Region](https://wikipedia.org/wiki/Tren%C4%8D%C3%ADn_Region)
-  - [2009 Handlová mine blast](https://wikipedia.org/wiki/2009_Handlov%C3%A1_mine_blast)
-  - [Slovakia](https://wikipedia.org/wiki/Slovakia)
+  - [Oil tanker](https://wikipedia.org/wiki/Oil_tanker)
+  - [Guimaras](https://wikipedia.org/wiki/Guimaras)
+  - [Negros (island)](https://wikipedia.org/wiki/Negros_(island))
+  - [Philippines](https://wikipedia.org/wiki/Philippines)
+  - [Guimaras oil spill](https://wikipedia.org/wiki/Guimaras_oil_spill)
 
-- #### 2003 The Okinawa Monorail is opened in Naha, Okinawa.
+- #### 2003 Jemaah Islamiyah leader Riduan Isamuddin, better known as Hambali, is arrested in Bangkok, Thailand.
 
-  - [Okinawa Monorail](https://wikipedia.org/wiki/Okinawa_Monorail)
-  - [Naha](https://wikipedia.org/wiki/Naha)
-  - [Okinawa Prefecture](https://wikipedia.org/wiki/Okinawa_Prefecture)
+  - [Jemaah Islamiyah](https://wikipedia.org/wiki/Jemaah_Islamiyah)
+  - [Riduan Isamuddin](https://wikipedia.org/wiki/Riduan_Isamuddin)
+  - [Bangkok](https://wikipedia.org/wiki/Bangkok)
+  - [Thailand](https://wikipedia.org/wiki/Thailand)
 
-- #### 2003 The highest temperature ever recorded in the United Kingdom, 38.5 °C (101.3 °F) in Kent, England. It is the first time the United Kingdom has recorded a temperature over 100 °F (38 °C).
+- #### 2003 NATO takes over command of the peacekeeping force in Afghanistan, marking its first major operation outside Europe in its 54-year-history.
 
-  - [Kent](https://wikipedia.org/wiki/Kent)
+  - [NATO](https://wikipedia.org/wiki/NATO)
+  - [International Security Assistance Force](https://wikipedia.org/wiki/International_Security_Assistance_Force)
+  - [Afghanistan](https://wikipedia.org/wiki/Afghanistan)
+  - [Europe](https://wikipedia.org/wiki/Europe)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
