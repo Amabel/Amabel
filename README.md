@@ -1,43 +1,40 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--11%2000%3A08%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--12%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - August, 11
+# What Happened On This Day - August, 12
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2017 At least 41 people are killed and another 179 injured after two passenger trains collide in Alexandria, Egypt.
+- #### 2015 At least two massive explosions kill 173 people and injure nearly 800 more in Tianjin, China.
 
-  - [Alexandria train collision](https://wikipedia.org/wiki/Alexandria_train_collision)
-  - [Alexandria](https://wikipedia.org/wiki/Alexandria)
-  - [Egypt](https://wikipedia.org/wiki/Egypt)
+  - [2015 Tianjin explosions](https://wikipedia.org/wiki/2015_Tianjin_explosions)
+  - [Tianjin](https://wikipedia.org/wiki/Tianjin)
 
-- #### 2012 At least 306 people are killed and 3,000 others injured in a pair of earthquakes near Tabriz, Iran.
+- #### 2000 The Russian Navy submarine Kursk explodes and sinks in the Barents Sea during a military exercise, killing her entire 118-man crew.
 
-  - [2012 East Azerbaijan earthquakes](https://wikipedia.org/wiki/2012_East_Azerbaijan_earthquakes)
-  - [Tabriz](https://wikipedia.org/wiki/Tabriz)
+  - [Russian Navy](https://wikipedia.org/wiki/Russian_Navy)
+  - [Russian submarine Kursk (K-141)](https://wikipedia.org/wiki/Russian_submarine_Kursk_(K-141))
+  - [Kursk submarine disaster](https://wikipedia.org/wiki/Kursk_submarine_disaster)
+  - [Barents Sea](https://wikipedia.org/wiki/Barents_Sea)
+  - [Military exercise](https://wikipedia.org/wiki/Military_exercise)
 
-- #### 2006 The oil tanker M/T Solar 1 sinks off the coast of Guimaras and Negros Islands in the Philippines, causing the country's worst oil spill.
+- #### 1994 Major League Baseball players go on strike, forcing the cancellation of the 1994 World Series.
 
-  - [Oil tanker](https://wikipedia.org/wiki/Oil_tanker)
-  - [Guimaras](https://wikipedia.org/wiki/Guimaras)
-  - [Negros (island)](https://wikipedia.org/wiki/Negros_(island))
-  - [Philippines](https://wikipedia.org/wiki/Philippines)
-  - [Guimaras oil spill](https://wikipedia.org/wiki/Guimaras_oil_spill)
+  - [Major League Baseball](https://wikipedia.org/wiki/Major_League_Baseball)
+  - [1994-95 Major League Baseball strike](https://wikipedia.org/wiki/1994%E2%80%9395_Major_League_Baseball_strike)
+  - [1994 World Series](https://wikipedia.org/wiki/1994_World_Series)
 
-- #### 2003 Jemaah Islamiyah leader Riduan Isamuddin, better known as Hambali, is arrested in Bangkok, Thailand.
+- #### 1992 Canada, Mexico and the United States announce completion of negotiations for the North American Free Trade Agreement (NAFTA).
 
-  - [Jemaah Islamiyah](https://wikipedia.org/wiki/Jemaah_Islamiyah)
-  - [Riduan Isamuddin](https://wikipedia.org/wiki/Riduan_Isamuddin)
-  - [Bangkok](https://wikipedia.org/wiki/Bangkok)
-  - [Thailand](https://wikipedia.org/wiki/Thailand)
+  - [North American Free Trade Agreement](https://wikipedia.org/wiki/North_American_Free_Trade_Agreement)
 
-- #### 2003 NATO takes over command of the peacekeeping force in Afghanistan, marking its first major operation outside Europe in its 54-year-history.
+- #### 1990 Sue, the largest and most complete Tyrannosaurus Rex skeleton found to date, is discovered by Sue Hendrickson in South Dakota.
 
-  - [NATO](https://wikipedia.org/wiki/NATO)
-  - [International Security Assistance Force](https://wikipedia.org/wiki/International_Security_Assistance_Force)
-  - [Afghanistan](https://wikipedia.org/wiki/Afghanistan)
-  - [Europe](https://wikipedia.org/wiki/Europe)
+  - [Sue (dinosaur)](https://wikipedia.org/wiki/Sue_(dinosaur))
+  - [Tyrannosaurus Rex](https://wikipedia.org/wiki/Tyrannosaurus_Rex)
+  - [Sue Hendrickson](https://wikipedia.org/wiki/Sue_Hendrickson)
+  - [South Dakota](https://wikipedia.org/wiki/South_Dakota)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
