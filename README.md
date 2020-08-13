@@ -1,40 +1,44 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--12%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--13%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - August, 12
+# What Happened On This Day - August, 13
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2015 At least two massive explosions kill 173 people and injure nearly 800 more in Tianjin, China.
+- #### 2015 At least 76 people are killed and 212 others are wounded in a truck bombing in Baghdad, Iraq.
 
-  - [2015 Tianjin explosions](https://wikipedia.org/wiki/2015_Tianjin_explosions)
-  - [Tianjin](https://wikipedia.org/wiki/Tianjin)
+  - [2015 Baghdad market truck bombing](https://wikipedia.org/wiki/2015_Baghdad_market_truck_bombing)
+  - [Baghdad](https://wikipedia.org/wiki/Baghdad)
 
-- #### 2000 The Russian Navy submarine Kursk explodes and sinks in the Barents Sea during a military exercise, killing her entire 118-man crew.
+- #### 2008 South Ossetian War: Russian units occupy the Georgian city of Gori.
 
-  - [Russian Navy](https://wikipedia.org/wiki/Russian_Navy)
-  - [Russian submarine Kursk (K-141)](https://wikipedia.org/wiki/Russian_submarine_Kursk_(K-141))
-  - [Kursk submarine disaster](https://wikipedia.org/wiki/Kursk_submarine_disaster)
-  - [Barents Sea](https://wikipedia.org/wiki/Barents_Sea)
-  - [Military exercise](https://wikipedia.org/wiki/Military_exercise)
+  - [2008 South Ossetia war](https://wikipedia.org/wiki/2008_South_Ossetia_war)
+  - [Occupation of Gori](https://wikipedia.org/wiki/Occupation_of_Gori)
+  - [Gori, Georgia](https://wikipedia.org/wiki/Gori,_Georgia)
 
-- #### 1994 Major League Baseball players go on strike, forcing the cancellation of the 1994 World Series.
+- #### 2004 One hundred fifty-six Congolese Tutsi refugees are massacred at the Gatumba refugee camp in Burundi.
 
-  - [Major League Baseball](https://wikipedia.org/wiki/Major_League_Baseball)
-  - [1994-95 Major League Baseball strike](https://wikipedia.org/wiki/1994%E2%80%9395_Major_League_Baseball_strike)
-  - [1994 World Series](https://wikipedia.org/wiki/1994_World_Series)
+  - [Democratic Republic of the Congo](https://wikipedia.org/wiki/Democratic_Republic_of_the_Congo)
+  - [Tutsi](https://wikipedia.org/wiki/Tutsi)
+  - [Gatumba](https://wikipedia.org/wiki/Gatumba)
+  - [Refugee camp](https://wikipedia.org/wiki/Refugee_camp)
+  - [Burundi](https://wikipedia.org/wiki/Burundi)
 
-- #### 1992 Canada, Mexico and the United States announce completion of negotiations for the North American Free Trade Agreement (NAFTA).
+- #### 1978 One hundred fifty Palestinians in Beirut are killed in a terrorist attack during the second phase of the Lebanese Civil War.
 
-  - [North American Free Trade Agreement](https://wikipedia.org/wiki/North_American_Free_Trade_Agreement)
+  - [Palestinian people](https://wikipedia.org/wiki/Palestinian_people)
+  - [Beirut](https://wikipedia.org/wiki/Beirut)
+  - [Tel al-Zaatar massacre](https://wikipedia.org/wiki/Tel_al-Zaatar_massacre)
+  - [List of terrorist incidents](https://wikipedia.org/wiki/List_of_terrorist_incidents)
+  - [Lebanese Civil War](https://wikipedia.org/wiki/Lebanese_Civil_War#Second_phase_of_the_war.2C_1977-82)
+  - [Lebanese Civil War](https://wikipedia.org/wiki/Lebanese_Civil_War)
 
-- #### 1990 Sue, the largest and most complete Tyrannosaurus Rex skeleton found to date, is discovered by Sue Hendrickson in South Dakota.
+- #### 1977 Members of the British National Front (NF) clash with anti-NF demonstrators in Lewisham, London, resulting in 214 arrests and at least 111 injuries.
 
-  - [Sue (dinosaur)](https://wikipedia.org/wiki/Sue_(dinosaur))
-  - [Tyrannosaurus Rex](https://wikipedia.org/wiki/Tyrannosaurus_Rex)
-  - [Sue Hendrickson](https://wikipedia.org/wiki/Sue_Hendrickson)
-  - [South Dakota](https://wikipedia.org/wiki/South_Dakota)
+  - [National Front (UK)](https://wikipedia.org/wiki/National_Front_(UK))
+  - [Battle of Lewisham](https://wikipedia.org/wiki/Battle_of_Lewisham)
+  - [Lewisham](https://wikipedia.org/wiki/Lewisham)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
