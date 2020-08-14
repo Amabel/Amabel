@@ -1,44 +1,38 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--13%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--14%2000%3A09%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - August, 13
+# What Happened On This Day - August, 14
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2015 At least 76 people are killed and 212 others are wounded in a truck bombing in Baghdad, Iraq.
+- #### 2015 The US Embassy in Havana, Cuba re-opens after 54 years of being closed when Cuba-United States relations were broken off.
 
-  - [2015 Baghdad market truck bombing](https://wikipedia.org/wiki/2015_Baghdad_market_truck_bombing)
-  - [Baghdad](https://wikipedia.org/wiki/Baghdad)
+  - [Embassy of the United States, Havana](https://wikipedia.org/wiki/Embassy_of_the_United_States,_Havana)
+  - [Havana, Cuba](https://wikipedia.org/wiki/Havana,_Cuba)
+  - [Cuba-United States relations](https://wikipedia.org/wiki/Cuba%E2%80%93United_States_relations)
 
-- #### 2008 South Ossetian War: Russian units occupy the Georgian city of Gori.
+- #### 2013 Egypt declares a state of emergency as security forces kill hundreds of demonstrators supporting former president Mohamed Morsi.
 
-  - [2008 South Ossetia war](https://wikipedia.org/wiki/2008_South_Ossetia_war)
-  - [Occupation of Gori](https://wikipedia.org/wiki/Occupation_of_Gori)
-  - [Gori, Georgia](https://wikipedia.org/wiki/Gori,_Georgia)
+  - [Egypt](https://wikipedia.org/wiki/Egypt)
+  - [State of emergency](https://wikipedia.org/wiki/State_of_emergency)
+  - [August 2013 Rabaa massacre](https://wikipedia.org/wiki/August_2013_Rabaa_massacre)
+  - [Mohamed Morsi](https://wikipedia.org/wiki/Mohamed_Morsi)
 
-- #### 2004 One hundred fifty-six Congolese Tutsi refugees are massacred at the Gatumba refugee camp in Burundi.
+- #### 2007 The Kahtaniya bombings kills at least 334 people.
 
-  - [Democratic Republic of the Congo](https://wikipedia.org/wiki/Democratic_Republic_of_the_Congo)
-  - [Tutsi](https://wikipedia.org/wiki/Tutsi)
-  - [Gatumba](https://wikipedia.org/wiki/Gatumba)
-  - [Refugee camp](https://wikipedia.org/wiki/Refugee_camp)
-  - [Burundi](https://wikipedia.org/wiki/Burundi)
+  - [2007 Yazidi communities bombings](https://wikipedia.org/wiki/2007_Yazidi_communities_bombings)
 
-- #### 1978 One hundred fifty Palestinians in Beirut are killed in a terrorist attack during the second phase of the Lebanese Civil War.
+- #### 2006 Sixty-one schoolgirls killed in Chencholai bombing by Sri Lankan Air Force air strike.
 
-  - [Palestinian people](https://wikipedia.org/wiki/Palestinian_people)
-  - [Beirut](https://wikipedia.org/wiki/Beirut)
-  - [Tel al-Zaatar massacre](https://wikipedia.org/wiki/Tel_al-Zaatar_massacre)
-  - [List of terrorist incidents](https://wikipedia.org/wiki/List_of_terrorist_incidents)
-  - [Lebanese Civil War](https://wikipedia.org/wiki/Lebanese_Civil_War#Second_phase_of_the_war.2C_1977-82)
-  - [Lebanese Civil War](https://wikipedia.org/wiki/Lebanese_Civil_War)
+  - [Chencholai bombing](https://wikipedia.org/wiki/Chencholai_bombing)
+  - [Sri Lanka Air force](https://wikipedia.org/wiki/Sri_Lanka_Air_force)
 
-- #### 1977 Members of the British National Front (NF) clash with anti-NF demonstrators in Lewisham, London, resulting in 214 arrests and at least 111 injuries.
+- #### 2005 Helios Airways Flight 522, en route from Larnaca, Cyprus to Prague, Czech Republic via Athens, crashes in the hills near Grammatiko, Greece, killing 121 passengers and crew.
 
-  - [National Front (UK)](https://wikipedia.org/wiki/National_Front_(UK))
-  - [Battle of Lewisham](https://wikipedia.org/wiki/Battle_of_Lewisham)
-  - [Lewisham](https://wikipedia.org/wiki/Lewisham)
+  - [Helios Airways Flight 522](https://wikipedia.org/wiki/Helios_Airways_Flight_522)
+  - [Cyprus](https://wikipedia.org/wiki/Cyprus)
+  - [Grammatiko](https://wikipedia.org/wiki/Grammatiko)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
