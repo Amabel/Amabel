@@ -1,41 +1,38 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--15%2000%3A09%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--16%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - August, 15
+# What Happened On This Day - August, 16
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2015 North Korea moves its clock back half an hour to introduce Pyongyang Time, 8½ hours ahead of UTC.
+- #### 2017 Minamata Convention on Mercury entered into force.
 
-  - [North Korea](https://wikipedia.org/wiki/North_Korea)
-  - [Time in North Korea](https://wikipedia.org/wiki/Time_in_North_Korea)
-  - [UTC](https://wikipedia.org/wiki/UTC)
+  - [Minamata Convention on Mercury](https://wikipedia.org/wiki/Minamata_Convention_on_Mercury)
 
-- #### 2013 The Smithsonian announces the discovery of the olinguito, the first new carnivorous species found in the Americas in 35 years.
+- #### 2015 More than 96 people are killed and hundreds injured following a series of air-raids by the Syrian Arab Air Force on the rebel-held market town of Douma.
 
-  - [Smithsonian](https://wikipedia.org/wiki/Smithsonian)
-  - [Olinguito](https://wikipedia.org/wiki/Olinguito)
+  - [2015 Douma market massacre](https://wikipedia.org/wiki/2015_Douma_market_massacre)
+  - [Syrian Arab Air Force](https://wikipedia.org/wiki/Syrian_Arab_Air_Force)
+  - [Syrian opposition](https://wikipedia.org/wiki/Syrian_opposition)
+  - [Douma, Syria](https://wikipedia.org/wiki/Douma,_Syria)
 
-- #### 2013 At least 27 people are killed and 226 injured in an explosion in southern Beirut near a complex used by Lebanon's militant group Hezbollah in Lebanon. A previously unknown Syrian Sunni group claims responsibility in an online video.
+- #### 2013 The ferry St. Thomas Aquinas collides with a cargo ship and sinks at Cebu, Philippines, killing 61 people with 59 others missing.
 
-  - [August 2013 Beirut bombing](https://wikipedia.org/wiki/August_2013_Beirut_bombing)
-  - [Beirut](https://wikipedia.org/wiki/Beirut)
-  - [Hezbollah](https://wikipedia.org/wiki/Hezbollah)
-  - [Syria](https://wikipedia.org/wiki/Syria)
-  - [Sunni](https://wikipedia.org/wiki/Sunni)
+  - [MV St. Thomas Aquinas](https://wikipedia.org/wiki/MV_St._Thomas_Aquinas)
+  - [Cebu](https://wikipedia.org/wiki/Cebu)
+  - [Philippines](https://wikipedia.org/wiki/Philippines)
 
-- #### 2007 An 8.0-magnitude earthquake off the Pacific coast devastates Ica and various regions of Peru killing 514 and injuring 1,090.
+- #### 2012 South African police fatally shoot 34 miners and wound 78 more during an industrial dispute at Marikana near Rustenburg.
 
-  - [2007 Peru earthquake](https://wikipedia.org/wiki/2007_Peru_earthquake)
-  - [Ica Region](https://wikipedia.org/wiki/Ica_Region)
-  - [Peru](https://wikipedia.org/wiki/Peru)
+  - [South African Police Service](https://wikipedia.org/wiki/South_African_Police_Service)
+  - [Marikana miners' strike](https://wikipedia.org/wiki/Marikana_miners%27_strike)
+  - [Rustenburg](https://wikipedia.org/wiki/Rustenburg)
 
-- #### 2005 The Helsinki Agreement between the Free Aceh Movement and the Government of Indonesia was signed, ending almost three decades of fighting.
+- #### 2008 The Trump International Hotel and Tower in Chicago is topped off at 1,389 feet (423 m), at the time becoming the world's highest residence above ground-level.
 
-  - [Free Aceh Movement](https://wikipedia.org/wiki/Free_Aceh_Movement)
-  - [Government of Indonesia](https://wikipedia.org/wiki/Government_of_Indonesia)
-  - [Insurgency in Aceh](https://wikipedia.org/wiki/Insurgency_in_Aceh)
+  - [Trump International Hotel and Tower (Chicago)](https://wikipedia.org/wiki/Trump_International_Hotel_and_Tower_(Chicago))
+  - [Dwelling](https://wikipedia.org/wiki/Dwelling)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
