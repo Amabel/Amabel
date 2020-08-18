@@ -1,35 +1,36 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--17%2000%3A09%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--18%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - August, 17
+# What Happened On This Day - August, 18
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2017 2017 Barcelona attacks: A van is driven into pedestrians in La Rambla, killing 14 and injuring at least 100.
+- #### 2017 2 people are killed and 8 injured in Turku in the first terrorist attack in Finland in over 70 years.
 
-  - [2017 Barcelona attacks](https://wikipedia.org/wiki/2017_Barcelona_attacks)
+  - [Turku](https://wikipedia.org/wiki/Turku)
+  - [2017 Turku stabbing](https://wikipedia.org/wiki/2017_Turku_stabbing)
 
-- #### 2015 A bomb explodes near the Erawan Shrine in Bangkok, Thailand, killing at least 19 people and injuring 123 others.
+- #### 2008 War of Afghanistan: Uzbin Valley ambush occurs.
 
-  - [2015 Bangkok bombing](https://wikipedia.org/wiki/2015_Bangkok_bombing)
-  - [Erawan Shrine](https://wikipedia.org/wiki/Erawan_Shrine)
-  - [Bangkok](https://wikipedia.org/wiki/Bangkok)
+  - [Uzbin Valley ambush](https://wikipedia.org/wiki/Uzbin_Valley_ambush)
 
-- #### 2009 An accident at the Sayano-Shushenskaya Dam in Khakassia, Russia, kills 75 and shuts down the hydroelectric power station, leading to widespread power failure in the local area.
+- #### 2008 President of Pakistan Pervez Musharraf resigns under threat of impeachment.
 
-  - [2009 Sayano-Shushenskaya power station accident](https://wikipedia.org/wiki/2009_Sayano%E2%80%93Shushenskaya_power_station_accident)
-  - [Sayano-Shushenskaya Dam](https://wikipedia.org/wiki/Sayano%E2%80%93Shushenskaya_Dam)
-  - [Khakassia](https://wikipedia.org/wiki/Khakassia)
+  - [Pervez Musharraf](https://wikipedia.org/wiki/Pervez_Musharraf)
+  - [Movement to impeach Pervez Musharraf](https://wikipedia.org/wiki/Movement_to_impeach_Pervez_Musharraf)
 
-- #### 2008 American swimmer Michael Phelps becomes the first person to win eight gold medals at one Olympic Games.
+- #### 2005 A massive power blackout hits the Indonesian island of Java, affecting almost 100 million people, one of the largest and most widespread power outages in history.
 
-  - [Michael Phelps](https://wikipedia.org/wiki/Michael_Phelps)
+  - [2005 Java-Bali blackout](https://wikipedia.org/wiki/2005_Java%E2%80%93Bali_blackout)
+  - [Indonesia](https://wikipedia.org/wiki/Indonesia)
+  - [Java](https://wikipedia.org/wiki/Java)
+  - [List of major power outages](https://wikipedia.org/wiki/List_of_major_power_outages#Largest)
 
-- #### 2005 Over 500 bombs are set off by terrorists at 300 locations in 63 out of the 64 districts of Bangladesh
+- #### 2003 One year old Zachary Tuner is murdered in Newfoundland by his mother who was awarded custody despite facing trial for the murder of Zachary's father. The case led to reform of Canada's bail laws.
 
-  - [2005 Bangladesh series bombings](https://wikipedia.org/wiki/2005_Bangladesh_series_bombings)
-  - [Bangladesh](https://wikipedia.org/wiki/Bangladesh)
+  - [Murder of Zachary Turner](https://wikipedia.org/wiki/Murder_of_Zachary_Turner)
+  - [Newfoundland](https://wikipedia.org/wiki/Newfoundland)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
