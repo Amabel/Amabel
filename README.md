@@ -1,36 +1,40 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--19%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--20%2000%3A09%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - August, 19
+# What Happened On This Day - August, 20
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2013 The Dhamara Ghat train accident kills at least 37 people in the Indian state of Bihar.
+- #### 2016 54 people are killed when a suicide bomber detonates himself at a Kurdish wedding party in Gaziantep, Turkey.
 
-  - [Dhamara Ghat train accident](https://wikipedia.org/wiki/Dhamara_Ghat_train_accident)
-  - [Bihar](https://wikipedia.org/wiki/Bihar)
+  - [August 2016 Gaziantep bombing](https://wikipedia.org/wiki/August_2016_Gaziantep_bombing)
+  - [Gaziantep](https://wikipedia.org/wiki/Gaziantep)
+  - [Turkey](https://wikipedia.org/wiki/Turkey)
 
-- #### 2010 Operation Iraqi Freedom ends, with the last of the United States brigade combat teams crossing the border to Kuwait.
+- #### 2014 Seventy-two people are killed in Japan's Hiroshima Prefecture by a series of landslides caused by a month's worth of rain that fell in one day.
 
-  - [Iraq War](https://wikipedia.org/wiki/Iraq_War)
-  - [Brigade](https://wikipedia.org/wiki/Brigade)
-  - [Kuwait](https://wikipedia.org/wiki/Kuwait)
+  - [Hiroshima Prefecture](https://wikipedia.org/wiki/Hiroshima_Prefecture)
+  - [2014 Hiroshima landslides](https://wikipedia.org/wiki/2014_Hiroshima_landslides)
 
-- #### 2009 A series of bombings in Baghdad, Iraq, kills 101 and injures 565 others.
+- #### 2012 A prison riot in the Venezuelan capital, Caracas, kills at least 20 people.
 
-  - [August 2009 Baghdad bombings](https://wikipedia.org/wiki/August_2009_Baghdad_bombings)
-  - [Baghdad](https://wikipedia.org/wiki/Baghdad)
+  - [Yare prison riot](https://wikipedia.org/wiki/Yare_prison_riot)
+  - [Venezuela](https://wikipedia.org/wiki/Venezuela)
+  - [Caracas](https://wikipedia.org/wiki/Caracas)
 
-- #### 2005 The first-ever joint military exercise between Russia and China, called Peace Mission 2005 begins.
+- #### 2008 Spanair Flight 5022, from Madrid, Spain to Gran Canaria, skids off the runway and crashes at Barajas Airport. Of the 172 people on board, 146 die immediately, and eight more later die of injuries sustained in the crash.
 
-  - [Peace Mission 2005](https://wikipedia.org/wiki/Peace_Mission_2005)
+  - [Spanair Flight 5022](https://wikipedia.org/wiki/Spanair_Flight_5022)
+  - [Madrid](https://wikipedia.org/wiki/Madrid)
+  - [Gran Canaria](https://wikipedia.org/wiki/Gran_Canaria)
+  - [Adolfo Suárez Madrid-Barajas Airport](https://wikipedia.org/wiki/Adolfo_Su%C3%A1rez_Madrid%E2%80%93Barajas_Airport)
 
-- #### 2003 A suicide attack on a bus in Jerusalem, Israel, planned by Hamas, kills 23 Israelis, seven of them children, in the Shmuel HaNavi bus bombing.
+- #### 2007 China Airlines Flight 120 caught fire and exploded after landing at Naha Airport in Okinawa, Japan.
 
-  - [Jerusalem](https://wikipedia.org/wiki/Jerusalem)
-  - [Hamas](https://wikipedia.org/wiki/Hamas)
-  - [Shmuel HaNavi bus bombing](https://wikipedia.org/wiki/Shmuel_HaNavi_bus_bombing)
+  - [China Airlines Flight 120](https://wikipedia.org/wiki/China_Airlines_Flight_120)
+  - [Naha Airport](https://wikipedia.org/wiki/Naha_Airport)
+  - [Okinawa Prefecture](https://wikipedia.org/wiki/Okinawa_Prefecture)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
