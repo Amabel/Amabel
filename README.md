@@ -1,39 +1,39 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--23%2000%3A09%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--24%2000%3A09%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - August, 23
+# What Happened On This Day - August, 24
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2013 A riot at the Palmasola prison complex in Santa Cruz, Bolivia kills 31 people.
+- #### 2016 An earthquake strikes Central Italy with a magnitude of 6.2, with aftershocks felt as far as Rome and Florence.
 
-  - [2013 Palmasola prison riot](https://wikipedia.org/wiki/2013_Palmasola_prison_riot)
-  - [Palmasola](https://wikipedia.org/wiki/Palmasola)
-  - [Santa Cruz de la Sierra](https://wikipedia.org/wiki/Santa_Cruz_de_la_Sierra)
+  - [August 2016 Central Italy earthquake](https://wikipedia.org/wiki/August_2016_Central_Italy_earthquake)
+  - [Rome](https://wikipedia.org/wiki/Rome)
+  - [Florence](https://wikipedia.org/wiki/Florence)
 
-- #### 2012 A hot-air balloon crashes near the Slovenian capital of Ljubljana, killing six people and injuring 28 others.
+- #### 2010 In San Fernando, Tamaulipas, Mexico, 72 illegal immigrants are killed by Los Zetas and eventually found dead by Mexican authorities.
 
-  - [2012 Ljubljana Marshes hot air balloon crash](https://wikipedia.org/wiki/2012_Ljubljana_Marshes_hot_air_balloon_crash)
-  - [Ljubljana](https://wikipedia.org/wiki/Ljubljana)
+  - [San Fernando, Tamaulipas](https://wikipedia.org/wiki/San_Fernando,_Tamaulipas)
+  - [2010 San Fernando massacre](https://wikipedia.org/wiki/2010_San_Fernando_massacre)
+  - [Los Zetas](https://wikipedia.org/wiki/Los_Zetas)
 
-- #### 2011 Libyan leader Muammar Gaddafi is overthrown after the National Transitional Council forces take control of Bab al-Azizia compound during the Libyan Civil War.
+- #### 2006 The International Astronomical Union (IAU) redefines the term "planet" such that Pluto is now considered a dwarf planet.
 
-  - [Muammar Gaddafi](https://wikipedia.org/wiki/Muammar_Gaddafi)
-  - [National Transitional Council](https://wikipedia.org/wiki/National_Transitional_Council)
-  - [Bab al-Azizia](https://wikipedia.org/wiki/Bab_al-Azizia)
-  - [Libyan Civil War (2011)](https://wikipedia.org/wiki/Libyan_Civil_War_(2011))
+  - [International Astronomical Union](https://wikipedia.org/wiki/International_Astronomical_Union)
+  - [IAU definition of planet](https://wikipedia.org/wiki/IAU_definition_of_planet)
+  - [Pluto](https://wikipedia.org/wiki/Pluto)
+  - [Dwarf planet](https://wikipedia.org/wiki/Dwarf_planet)
 
-- #### 2011 A magnitude 5.8 (class: moderate) earthquake occurs in Virginia. Damage occurs to monuments and structures in Washington D.C. and the resulted damage is estimated at $200 million-$300 million USD.
+- #### 2004 Eighty-nine passengers die after two airliners explode after flying out of Domodedovo International Airport, near Moscow. The explosions are caused by suicide bombers from Chechnya.
 
-  - [2011 Virginia earthquake](https://wikipedia.org/wiki/2011_Virginia_earthquake)
-  - [Virginia](https://wikipedia.org/wiki/Virginia)
+  - [Russian aircraft bombings of August 2004](https://wikipedia.org/wiki/Russian_aircraft_bombings_of_August_2004)
+  - [Domodedovo International Airport](https://wikipedia.org/wiki/Domodedovo_International_Airport)
+  - [Chechnya](https://wikipedia.org/wiki/Chechnya)
 
-- #### 2007 The skeletal remains of Russia's last royal family members Alexei Nikolaevich, Tsarevich of Russia, and his sister Grand Duchess Anastasia are discovered near Yekaterinburg, Russia.
+- #### 1998 First radio-frequency identification (RFID) human implantation tested in the United Kingdom.
 
-  - [Alexei Nikolaevich, Tsarevich of Russia](https://wikipedia.org/wiki/Alexei_Nikolaevich,_Tsarevich_of_Russia)
-  - [Grand Duchess Anastasia Nikolaevna of Russia](https://wikipedia.org/wiki/Grand_Duchess_Anastasia_Nikolaevna_of_Russia)
-  - [Yekaterinburg](https://wikipedia.org/wiki/Yekaterinburg)
+  - [Radio-frequency identification](https://wikipedia.org/wiki/Radio-frequency_identification)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
