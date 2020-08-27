@@ -1,36 +1,39 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--26%2000%3A09%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--27%2000%3A09%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - August, 26
+# What Happened On This Day - August, 27
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2015 Two U.S. journalists are shot and killed by a disgruntled former coworker while conducting a live report in Moneta, Virginia.
+- #### 2011 Hurricane Irene strikes the United States east coast, killing 47 and causing an estimated $15.6 billion in damage.
 
-  - [Murders of Alison Parker and Adam Ward](https://wikipedia.org/wiki/Murders_of_Alison_Parker_and_Adam_Ward)
-  - [Moneta, Virginia](https://wikipedia.org/wiki/Moneta,_Virginia)
+  - [Hurricane Irene](https://wikipedia.org/wiki/Hurricane_Irene)
 
-- #### 2011 The Boeing 787 Dreamliner, Boeing's all-new composite airliner, receives certification from the EASA and the FAA.
+- #### 2009 Internal conflict in Burma: The Burmese military junta and ethnic armies begin three days of violent clashes in the Kokang Special Region.
 
-  - [Boeing 787 Dreamliner](https://wikipedia.org/wiki/Boeing_787_Dreamliner)
-  - [European Aviation Safety Agency](https://wikipedia.org/wiki/European_Aviation_Safety_Agency)
-  - [Federal Aviation Administration](https://wikipedia.org/wiki/Federal_Aviation_Administration)
+  - [Internal conflict in Burma](https://wikipedia.org/wiki/Internal_conflict_in_Burma)
+  - [State Peace and Development Council](https://wikipedia.org/wiki/State_Peace_and_Development_Council)
+  - [2009 Kokang incident](https://wikipedia.org/wiki/2009_Kokang_incident)
+  - [Kokang Special Region](https://wikipedia.org/wiki/Kokang_Special_Region)
 
-- #### 2009 Kidnapping victim Jaycee Dugard is discovered alive in California after being missing for over 18 years.
+- #### 2006 Comair Flight 5191 crashes on takeoff from Blue Grass Airport in Lexington, Kentucky bound for Hartsfield-Jackson Atlanta International Airport in Atlanta. Of the passengers and crew, 49 of 50 are confirmed dead in the hours following the crash.
 
-  - [Kidnapping of Jaycee Dugard](https://wikipedia.org/wiki/Kidnapping_of_Jaycee_Dugard)
+  - [Comair Flight 5191](https://wikipedia.org/wiki/Comair_Flight_5191)
+  - [Takeoff](https://wikipedia.org/wiki/Takeoff)
+  - [Blue Grass Airport](https://wikipedia.org/wiki/Blue_Grass_Airport)
+  - [Lexington, Kentucky](https://wikipedia.org/wiki/Lexington,_Kentucky)
+  - [Hartsfield-Jackson Atlanta International Airport](https://wikipedia.org/wiki/Hartsfield%E2%80%93Jackson_Atlanta_International_Airport)
+  - [Atlanta](https://wikipedia.org/wiki/Atlanta)
 
-- #### 1999 Russia begins the Second Chechen War in response to the Invasion of Dagestan by the Islamic International Peacekeeping Brigade.
+- #### 2003 The first six-party talks, involving South and North Korea, the United States, China, Japan and Russia, convene to find a peaceful resolution to the security concerns of the North Korean nuclear weapons program.
 
-  - [Second Chechen War](https://wikipedia.org/wiki/Second_Chechen_War)
-  - [Invasion of Dagestan](https://wikipedia.org/wiki/Invasion_of_Dagestan)
-  - [Islamic International Peacekeeping Brigade](https://wikipedia.org/wiki/Islamic_International_Peacekeeping_Brigade)
+  - [Six-party talks](https://wikipedia.org/wiki/Six-party_talks)
+  - [North Korea and weapons of mass destruction](https://wikipedia.org/wiki/North_Korea_and_weapons_of_mass_destruction)
 
-- #### 1997 Beni Ali massacre occurs in Algeria, leaving 60 to 100 people dead.
+- #### 2003 Mars makes its closest approach to Earth in nearly 60,000 years, passing 34,646,418 miles (55,758,005 km) distant.
 
-  - [Beni Ali massacre](https://wikipedia.org/wiki/Beni_Ali_massacre)
-  - [Algeria](https://wikipedia.org/wiki/Algeria)
+  - [Mars](https://wikipedia.org/wiki/Mars)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
