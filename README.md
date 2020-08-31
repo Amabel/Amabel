@@ -1,43 +1,37 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--30%2000%3A04%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--31%2000%3A14%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - August, 30
+# What Happened On This Day - August, 31
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2014 Prime Minister of Lesotho Tom Thabane flees to South Africa as the army allegedly stages a coup.
+- #### 2016 Brazil's President Dilma Rousseff is impeached and removed from office.
 
-  - [Tom Thabane](https://wikipedia.org/wiki/Tom_Thabane)
-  - [2014 Lesotho political crisis](https://wikipedia.org/wiki/2014_Lesotho_political_crisis)
+  - [Dilma Rousseff](https://wikipedia.org/wiki/Dilma_Rousseff)
+  - [Impeachment of Dilma Rousseff](https://wikipedia.org/wiki/Impeachment_of_Dilma_Rousseff)
 
-- #### 1998 Second Congo War: Armed forces of the Democratic Republic of the Congo (DRC) and their Angolan and Zimbabwean allies recapture Matadi and the Inga dams in the western DRC from RCD and Rwandan troops.
+- #### 2006 Edvard Munch's famous painting The Scream, stolen on August 22, 2004, is recovered in a raid by Norwegian police.
 
-  - [Second Congo War](https://wikipedia.org/wiki/Second_Congo_War)
-  - [Democratic Republic of the Congo](https://wikipedia.org/wiki/Democratic_Republic_of_the_Congo)
-  - [Angola](https://wikipedia.org/wiki/Angola)
-  - [Zimbabwe](https://wikipedia.org/wiki/Zimbabwe)
-  - [Matadi](https://wikipedia.org/wiki/Matadi)
-  - [Inga dams](https://wikipedia.org/wiki/Inga_dams)
-  - [Rally for Congolese Democracy](https://wikipedia.org/wiki/Rally_for_Congolese_Democracy)
-  - [Rwanda](https://wikipedia.org/wiki/Rwanda)
+  - [Edvard Munch](https://wikipedia.org/wiki/Edvard_Munch)
+  - [The Scream](https://wikipedia.org/wiki/The_Scream)
 
-- #### 1995 Bosnian War: NATO launches Operation Deliberate Force against Bosnian Serb forces.
+- #### 2005 The 2005 Al-Aaimmah bridge stampede in Baghdad kills 953 people.
 
-  - [Bosnian War](https://wikipedia.org/wiki/Bosnian_War)
-  - [NATO](https://wikipedia.org/wiki/NATO)
-  - [Operation Deliberate Force](https://wikipedia.org/wiki/Operation_Deliberate_Force)
-  - [Bosnian Serb](https://wikipedia.org/wiki/Bosnian_Serb)
+  - [2005 Al-Aaimmah bridge stampede](https://wikipedia.org/wiki/2005_Al-Aaimmah_bridge_stampede)
+  - [Baghdad](https://wikipedia.org/wiki/Baghdad)
 
-- #### 1992 The 11-day Ruby Ridge standoff ends with Randy Weaver surrendering to federal authorities.
+- #### 1999 A LAPA Boeing 737-200 crashes during takeoff from Jorge Newbury Airport in Buenos Aires, killing 65, including two on the ground.
 
-  - [Ruby Ridge](https://wikipedia.org/wiki/Ruby_Ridge)
-  - [Randy Weaver](https://wikipedia.org/wiki/Randy_Weaver)
+  - [Líneas Aéreas Privadas Argentinas](https://wikipedia.org/wiki/L%C3%ADneas_A%C3%A9reas_Privadas_Argentinas)
+  - [Boeing 737-200](https://wikipedia.org/wiki/Boeing_737-200)
+  - [LAPA Flight 3142](https://wikipedia.org/wiki/LAPA_Flight_3142)
+  - [Aeroparque Jorge Newbery](https://wikipedia.org/wiki/Aeroparque_Jorge_Newbery)
+  - [Buenos Aires](https://wikipedia.org/wiki/Buenos_Aires)
 
-- #### 1991 Dissolution of the Soviet Union: Azerbaijan declares independence from Soviet Union.
+- #### 1999 The first of a series of bombings in Moscow kills one person and wounds 40 others.
 
-  - [Dissolution of the Soviet Union](https://wikipedia.org/wiki/Dissolution_of_the_Soviet_Union)
-  - [Azerbaijan](https://wikipedia.org/wiki/Azerbaijan)
+  - [Russian apartment bombings](https://wikipedia.org/wiki/Russian_apartment_bombings)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
