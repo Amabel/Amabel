@@ -1,37 +1,37 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--08--31%2000%3A14%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--01%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - August, 31
+# What Happened On This Day - September, 1
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2016 Brazil's President Dilma Rousseff is impeached and removed from office.
+- #### 2004 The Crisis in Beslan commences when armed terrorists take schoolchildren and school staff hostage in North Ossetia (Russia); by the end of the siege three days later more than 385 people are dead (including hostages, other civilians, security personnel and terrorists).
 
-  - [Dilma Rousseff](https://wikipedia.org/wiki/Dilma_Rousseff)
-  - [Impeachment of Dilma Rousseff](https://wikipedia.org/wiki/Impeachment_of_Dilma_Rousseff)
+  - [Beslan school hostage crisis](https://wikipedia.org/wiki/Beslan_school_hostage_crisis)
+  - [North Ossetia](https://wikipedia.org/wiki/North_Ossetia)
 
-- #### 2006 Edvard Munch's famous painting The Scream, stolen on August 22, 2004, is recovered in a raid by Norwegian police.
+- #### 1991 Uzbekistan declares independence from the Soviet Union.
 
-  - [Edvard Munch](https://wikipedia.org/wiki/Edvard_Munch)
-  - [The Scream](https://wikipedia.org/wiki/The_Scream)
+  - [Uzbekistan](https://wikipedia.org/wiki/Uzbekistan)
+  - [Soviet Union](https://wikipedia.org/wiki/Soviet_Union)
 
-- #### 2005 The 2005 Al-Aaimmah bridge stampede in Baghdad kills 953 people.
+- #### 1985 A joint American-French expedition locates the wreckage of the RMS Titanic.
 
-  - [2005 Al-Aaimmah bridge stampede](https://wikipedia.org/wiki/2005_Al-Aaimmah_bridge_stampede)
-  - [Baghdad](https://wikipedia.org/wiki/Baghdad)
+  - [RMS Titanic](https://wikipedia.org/wiki/RMS_Titanic)
 
-- #### 1999 A LAPA Boeing 737-200 crashes during takeoff from Jorge Newbury Airport in Buenos Aires, killing 65, including two on the ground.
+- #### 1983 Cold War: Korean Air Lines Flight 007 is shot down by a Soviet Union jet fighter when the commercial aircraft enters Soviet airspace, killing all 269 on board, including Congressman Lawrence McDonald.
 
-  - [Líneas Aéreas Privadas Argentinas](https://wikipedia.org/wiki/L%C3%ADneas_A%C3%A9reas_Privadas_Argentinas)
-  - [Boeing 737-200](https://wikipedia.org/wiki/Boeing_737-200)
-  - [LAPA Flight 3142](https://wikipedia.org/wiki/LAPA_Flight_3142)
-  - [Aeroparque Jorge Newbery](https://wikipedia.org/wiki/Aeroparque_Jorge_Newbery)
-  - [Buenos Aires](https://wikipedia.org/wiki/Buenos_Aires)
+  - [Cold War](https://wikipedia.org/wiki/Cold_War)
+  - [Korean Air Lines Flight 007](https://wikipedia.org/wiki/Korean_Air_Lines_Flight_007)
+  - [Soviet Union](https://wikipedia.org/wiki/Soviet_Union)
+  - [Soviet Union](https://wikipedia.org/wiki/Soviet_Union)
+  - [United States Congress](https://wikipedia.org/wiki/United_States_Congress)
+  - [Larry McDonald](https://wikipedia.org/wiki/Larry_McDonald)
 
-- #### 1999 The first of a series of bombings in Moscow kills one person and wounds 40 others.
+- #### 1982 The United States Air Force Space Command is founded.
 
-  - [Russian apartment bombings](https://wikipedia.org/wiki/Russian_apartment_bombings)
+  - [Air Force Space Command](https://wikipedia.org/wiki/Air_Force_Space_Command)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
