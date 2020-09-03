@@ -1,44 +1,35 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--02%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--03%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - September, 2
+# What Happened On This Day - September, 3
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2013 The Eastern span replacement of the San Francisco-Oakland Bay Bridge opens at 10:15 PM at a cost of $6.4 billion, after the 1989 Loma Prieta earthquake damaged the old span.
+- #### 2017 North Korea conducts its sixth and most powerful nuclear test
 
-  - [Eastern span replacement of the San Francisco-Oakland Bay Bridge](https://wikipedia.org/wiki/Eastern_span_replacement_of_the_San_Francisco%E2%80%93Oakland_Bay_Bridge)
-  - [1989 Loma Prieta earthquake](https://wikipedia.org/wiki/1989_Loma_Prieta_earthquake)
 
-- #### 2009 The Andhra Pradesh, India helicopter crash occurred near Rudrakonda Hill, 40 nautical miles (74 km) from Kurnool, Andhra Pradesh, India. Fatalities included Y. S. Rajasekhara Reddy, the Chief Minister of the Indian state of Andhra Pradesh.
+- #### 2016 The US and China, together responsible for 40% of the world's carbon emissions, both formally joined the Paris global climate agreement.
 
-  - [2009 Andhra Pradesh Chief Minister helicopter crash](https://wikipedia.org/wiki/2009_Andhra_Pradesh_Chief_Minister_helicopter_crash)
-  - [Kurnool](https://wikipedia.org/wiki/Kurnool)
-  - [Andhra Pradesh](https://wikipedia.org/wiki/Andhra_Pradesh)
-  - [India](https://wikipedia.org/wiki/India)
-  - [Y. S. Rajasekhara Reddy](https://wikipedia.org/wiki/Y._S._Rajasekhara_Reddy)
 
-- #### 1998 The UN's International Criminal Tribunal for Rwanda finds Jean-Paul Akayesu, the former mayor of a small town in Rwanda, guilty of nine counts of genocide.
+- #### 2001 In Belfast, Protestant loyalists begin a picket of Holy Cross, a Catholic primary school for girls. For the next 11 weeks, riot police escort the schoolchildren and their parents through hundreds of protesters, some of whom hurl missiles and abuse. The protest sparks fierce rioting and grabs world headlines.
 
-  - [United Nations](https://wikipedia.org/wiki/United_Nations)
-  - [International Criminal Tribunal for Rwanda](https://wikipedia.org/wiki/International_Criminal_Tribunal_for_Rwanda)
-  - [Jean-Paul Akayesu](https://wikipedia.org/wiki/Jean-Paul_Akayesu)
-  - [Mayor](https://wikipedia.org/wiki/Mayor)
-  - [Rwanda](https://wikipedia.org/wiki/Rwanda)
-  - [Genocide](https://wikipedia.org/wiki/Genocide)
+  - [Belfast](https://wikipedia.org/wiki/Belfast)
+  - [Ulster loyalism](https://wikipedia.org/wiki/Ulster_loyalism)
+  - [Holy Cross dispute](https://wikipedia.org/wiki/Holy_Cross_dispute)
+  - [Primary school](https://wikipedia.org/wiki/Primary_school)
 
-- #### 1998 Swissair Flight 111 crashes near Peggy's Cove, Nova Scotia; all 229 people onboard are killed.
+- #### 1997 Vietnam Airlines Flight 815 (Tupolev Tu-134) crashes on approach into Phnom Penh airport, killing 64.
 
-  - [Swissair Flight 111](https://wikipedia.org/wiki/Swissair_Flight_111)
-  - [Peggy's Cove, Nova Scotia](https://wikipedia.org/wiki/Peggy%27s_Cove,_Nova_Scotia)
+  - [Vietnam Airlines](https://wikipedia.org/wiki/Vietnam_Airlines)
+  - [Vietnam Airlines Flight 815](https://wikipedia.org/wiki/Vietnam_Airlines_Flight_815)
+  - [Tupolev Tu-134](https://wikipedia.org/wiki/Tupolev_Tu-134)
+  - [Phnom Penh](https://wikipedia.org/wiki/Phnom_Penh)
 
-- #### 1992 The 7.7 Mw Nicaragua earthquake affected the west coast of Nicaragua. With a Ms-Mw disparity of half a unit, this tsunami earthquake triggered a tsunami that caused most of the damage and casualties, with at least 116 killed. Typical runup heights were 3-8 meters (9.8-26.2 ft).
+- #### 1994 Sino-Soviet split: Russia and the People's Republic of China agree to de-target their nuclear weapons against each other.
 
-  - [1992 Nicaragua earthquake](https://wikipedia.org/wiki/1992_Nicaragua_earthquake)
-  - [Seismic scale](https://wikipedia.org/wiki/Seismic_scale#Ms)
-  - [Seismic scale](https://wikipedia.org/wiki/Seismic_scale#Mw)
-  - [Tsunami earthquake](https://wikipedia.org/wiki/Tsunami_earthquake)
+  - [Sino-Soviet split](https://wikipedia.org/wiki/Sino-Soviet_split)
+  - [Nuclear weapon](https://wikipedia.org/wiki/Nuclear_weapon)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
