@@ -1,35 +1,37 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--03%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--04%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - September, 3
+# What Happened On This Day - September, 4
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2017 North Korea conducts its sixth and most powerful nuclear test
+- #### 2010 A 7.1 magnitude earthquake strikes the South Island of New Zealand causing widespread damage and several power outages.
 
+  - [2010 Canterbury earthquake](https://wikipedia.org/wiki/2010_Canterbury_earthquake)
 
-- #### 2016 The US and China, together responsible for 40% of the world's carbon emissions, both formally joined the Paris global climate agreement.
+- #### 2007 Three terrorists suspected to be a part of Al-Qaeda are arrested in Germany after allegedly planning attacks on both the Frankfurt International airport and US military installations.
 
+  - [Al-Qaeda](https://wikipedia.org/wiki/Al-Qaeda)
+  - [2007 bomb plot in Germany](https://wikipedia.org/wiki/2007_bomb_plot_in_Germany)
 
-- #### 2001 In Belfast, Protestant loyalists begin a picket of Holy Cross, a Catholic primary school for girls. For the next 11 weeks, riot police escort the schoolchildren and their parents through hundreds of protesters, some of whom hurl missiles and abuse. The protest sparks fierce rioting and grabs world headlines.
+- #### 2002 The Oakland Athletics win their 20th consecutive game, an American League record.
 
-  - [Belfast](https://wikipedia.org/wiki/Belfast)
-  - [Ulster loyalism](https://wikipedia.org/wiki/Ulster_loyalism)
-  - [Holy Cross dispute](https://wikipedia.org/wiki/Holy_Cross_dispute)
-  - [Primary school](https://wikipedia.org/wiki/Primary_school)
+  - [Oakland Athletics](https://wikipedia.org/wiki/Oakland_Athletics)
+  - [American League](https://wikipedia.org/wiki/American_League)
 
-- #### 1997 Vietnam Airlines Flight 815 (Tupolev Tu-134) crashes on approach into Phnom Penh airport, killing 64.
+- #### 2001 Tokyo DisneySea opens to the public as part of the Tokyo Disney Resort in Urayasu, Chiba, Japan.
 
-  - [Vietnam Airlines](https://wikipedia.org/wiki/Vietnam_Airlines)
-  - [Vietnam Airlines Flight 815](https://wikipedia.org/wiki/Vietnam_Airlines_Flight_815)
-  - [Tupolev Tu-134](https://wikipedia.org/wiki/Tupolev_Tu-134)
-  - [Phnom Penh](https://wikipedia.org/wiki/Phnom_Penh)
+  - [Tokyo DisneySea](https://wikipedia.org/wiki/Tokyo_DisneySea)
+  - [Tokyo Disney Resort](https://wikipedia.org/wiki/Tokyo_Disney_Resort)
+  - [Urayasu, Chiba](https://wikipedia.org/wiki/Urayasu,_Chiba)
 
-- #### 1994 Sino-Soviet split: Russia and the People's Republic of China agree to de-target their nuclear weapons against each other.
+- #### 1998 Google is founded by Larry Page and Sergey Brin, two students at Stanford University.
 
-  - [Sino-Soviet split](https://wikipedia.org/wiki/Sino-Soviet_split)
-  - [Nuclear weapon](https://wikipedia.org/wiki/Nuclear_weapon)
+  - [Google](https://wikipedia.org/wiki/Google)
+  - [Larry Page](https://wikipedia.org/wiki/Larry_Page)
+  - [Sergey Brin](https://wikipedia.org/wiki/Sergey_Brin)
+  - [Stanford University](https://wikipedia.org/wiki/Stanford_University)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
