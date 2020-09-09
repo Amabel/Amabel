@@ -1,35 +1,37 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--08%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--09%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - September, 8
+# What Happened On This Day - September, 9
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2005 Two Ilyushin Il-76 aircraft from EMERCOM land at a disaster aid staging area at Little Rock Air Force Base; the first time Russia has flown such a mission to North America.
+- #### 2015 Elizabeth II became the longest reigning monarch of the United Kingdom.
 
-  - [Ilyushin Il-76](https://wikipedia.org/wiki/Ilyushin_Il-76)
-  - [EMERCOM](https://wikipedia.org/wiki/EMERCOM)
-  - [Little Rock Air Force Base](https://wikipedia.org/wiki/Little_Rock_Air_Force_Base)
+  - [Elizabeth II](https://wikipedia.org/wiki/Elizabeth_II)
+  - [List of monarchs in Britain by length of reign](https://wikipedia.org/wiki/List_of_monarchs_in_Britain_by_length_of_reign)
 
-- #### 2004 NASA's unmanned spacecraft Genesis crash-lands when its parachute fails to open.
+- #### 2012 A wave of attacks kill more than 100 people and injure 350 others across Iraq.
 
-  - [NASA](https://wikipedia.org/wiki/NASA)
-  - [Genesis (spacecraft)](https://wikipedia.org/wiki/Genesis_(spacecraft))
+  - [9 September 2012 Iraq attacks](https://wikipedia.org/wiki/9_September_2012_Iraq_attacks)
+  - [Iraq](https://wikipedia.org/wiki/Iraq)
 
-- #### 1994 USAir Flight 427, on approach to Pittsburgh International Airport, suddenly crashes in clear weather killing all 132 aboard; resulting in the most extensive aviation investigation in world history and altering manufacturing practices in the industry.
+- #### 2012 The Indian space agency puts into orbit its heaviest foreign satellite yet, in a streak of 21 consecutive successful PLSV launches.
 
-  - [USAir Flight 427](https://wikipedia.org/wiki/USAir_Flight_427)
-  - [Pittsburgh International Airport](https://wikipedia.org/wiki/Pittsburgh_International_Airport)
+  - [Indian Space Research Organisation](https://wikipedia.org/wiki/Indian_Space_Research_Organisation)
+  - [SPOT (satellite)](https://wikipedia.org/wiki/SPOT_(satellite)#SPOT_6_and_SPOT_7)
+  - [Polar Satellite Launch Vehicle](https://wikipedia.org/wiki/Polar_Satellite_Launch_Vehicle)
 
-- #### 1991 The Republic of Macedonia becomes independent.
+- #### 2009 The Dubai Metro, the first urban train network in the Arabian Peninsula, is ceremonially inaugurated.
 
-  - [Republic of Macedonia](https://wikipedia.org/wiki/Republic_of_Macedonia)
+  - [Dubai Metro](https://wikipedia.org/wiki/Dubai_Metro)
+  - [Arabian Peninsula](https://wikipedia.org/wiki/Arabian_Peninsula)
 
-- #### 1989 Partnair Flight 394 dived into the North Sea, killing 55 people. The investigation showed that the tail of the plane vibrated loose in flight due to sub-standard connecting bolts that had been fraudulently sold as aircraft-grade.
+- #### 2002 The Rafiganj train wreck happened in Bihar, India.
 
-  - [Partnair Flight 394](https://wikipedia.org/wiki/Partnair_Flight_394)
-  - [North Sea](https://wikipedia.org/wiki/North_Sea)
+  - [Rafiganj train wreck](https://wikipedia.org/wiki/Rafiganj_train_wreck)
+  - [Bihar](https://wikipedia.org/wiki/Bihar)
+  - [India](https://wikipedia.org/wiki/India)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
