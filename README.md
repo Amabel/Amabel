@@ -1,37 +1,37 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--09%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--10%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - September, 9
+# What Happened On This Day - September, 10
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2015 Elizabeth II became the longest reigning monarch of the United Kingdom.
+- #### 2017 Hurricane Irma makes landfall on Cudjoe Key, Florida as a Category 4 hurricane, after causing catastrophic damage throughout the Caribbean. Irma resulted in at least 134 deaths and over $62 billion (2017 USD) in damage.
 
-  - [Elizabeth II](https://wikipedia.org/wiki/Elizabeth_II)
-  - [List of monarchs in Britain by length of reign](https://wikipedia.org/wiki/List_of_monarchs_in_Britain_by_length_of_reign)
+  - [Hurricane Irma](https://wikipedia.org/wiki/Hurricane_Irma)
+  - [Cudjoe Key, Florida](https://wikipedia.org/wiki/Cudjoe_Key,_Florida)
+  - [Saffir-Simpson scale](https://wikipedia.org/wiki/Saffir%E2%80%93Simpson_scale#Category_4)
+  - [Caribbean](https://wikipedia.org/wiki/Caribbean)
 
-- #### 2012 A wave of attacks kill more than 100 people and injure 350 others across Iraq.
+- #### 2008 The Large Hadron Collider at CERN, described as the biggest scientific experiment in history, is powered up in Geneva, Switzerland.
 
-  - [9 September 2012 Iraq attacks](https://wikipedia.org/wiki/9_September_2012_Iraq_attacks)
-  - [Iraq](https://wikipedia.org/wiki/Iraq)
+  - [Large Hadron Collider](https://wikipedia.org/wiki/Large_Hadron_Collider)
+  - [CERN](https://wikipedia.org/wiki/CERN)
+  - [Geneva](https://wikipedia.org/wiki/Geneva)
 
-- #### 2012 The Indian space agency puts into orbit its heaviest foreign satellite yet, in a streak of 21 consecutive successful PLSV launches.
+- #### 2007 Former Prime Minister of Pakistan Nawaz Sharif returns to Pakistan after seven years in exile, following a military coup in October 1999.
 
-  - [Indian Space Research Organisation](https://wikipedia.org/wiki/Indian_Space_Research_Organisation)
-  - [SPOT (satellite)](https://wikipedia.org/wiki/SPOT_(satellite)#SPOT_6_and_SPOT_7)
-  - [Polar Satellite Launch Vehicle](https://wikipedia.org/wiki/Polar_Satellite_Launch_Vehicle)
+  - [Nawaz Sharif](https://wikipedia.org/wiki/Nawaz_Sharif)
 
-- #### 2009 The Dubai Metro, the first urban train network in the Arabian Peninsula, is ceremonially inaugurated.
+- #### 2002 Switzerland, traditionally a neutral country, joins the United Nations.
 
-  - [Dubai Metro](https://wikipedia.org/wiki/Dubai_Metro)
-  - [Arabian Peninsula](https://wikipedia.org/wiki/Arabian_Peninsula)
+  - [Neutral country](https://wikipedia.org/wiki/Neutral_country)
+  - [United Nations](https://wikipedia.org/wiki/United_Nations)
 
-- #### 2002 The Rafiganj train wreck happened in Bihar, India.
+- #### 2001 Antônio da Costa Santos, mayor of Campinas, Brazil is assassinated.
 
-  - [Rafiganj train wreck](https://wikipedia.org/wiki/Rafiganj_train_wreck)
-  - [Bihar](https://wikipedia.org/wiki/Bihar)
-  - [India](https://wikipedia.org/wiki/India)
+  - [Antônio da Costa Santos](https://wikipedia.org/wiki/Ant%C3%B4nio_da_Costa_Santos)
+  - [Campinas](https://wikipedia.org/wiki/Campinas)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
