@@ -1,37 +1,36 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--10%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--11%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - September, 10
+# What Happened On This Day - September, 11
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2017 Hurricane Irma makes landfall on Cudjoe Key, Florida as a Category 4 hurricane, after causing catastrophic damage throughout the Caribbean. Irma resulted in at least 134 deaths and over $62 billion (2017 USD) in damage.
+- #### 2015 A crane collapses onto the Masjid al-Haram mosque in Saudi Arabia, killing 111 people and injuring 394 others.
 
-  - [Hurricane Irma](https://wikipedia.org/wiki/Hurricane_Irma)
-  - [Cudjoe Key, Florida](https://wikipedia.org/wiki/Cudjoe_Key,_Florida)
-  - [Saffir-Simpson scale](https://wikipedia.org/wiki/Saffir%E2%80%93Simpson_scale#Category_4)
-  - [Caribbean](https://wikipedia.org/wiki/Caribbean)
+  - [Mecca crane collapse](https://wikipedia.org/wiki/Mecca_crane_collapse)
+  - [Masjid al-Haram](https://wikipedia.org/wiki/Masjid_al-Haram)
+  - [Saudi Arabia](https://wikipedia.org/wiki/Saudi_Arabia)
 
-- #### 2008 The Large Hadron Collider at CERN, described as the biggest scientific experiment in history, is powered up in Geneva, Switzerland.
+- #### 2012 The U.S. embassy in Benghazi, Libya is attacked, resulting in four deaths.
 
-  - [Large Hadron Collider](https://wikipedia.org/wiki/Large_Hadron_Collider)
-  - [CERN](https://wikipedia.org/wiki/CERN)
-  - [Geneva](https://wikipedia.org/wiki/Geneva)
+  - [Benghazi](https://wikipedia.org/wiki/Benghazi)
+  - [2012 Benghazi attack](https://wikipedia.org/wiki/2012_Benghazi_attack)
 
-- #### 2007 Former Prime Minister of Pakistan Nawaz Sharif returns to Pakistan after seven years in exile, following a military coup in October 1999.
+- #### 2012 A total of 315 people are killed in two garment factory fires in Pakistan.
 
-  - [Nawaz Sharif](https://wikipedia.org/wiki/Nawaz_Sharif)
+  - [2012 Pakistan garment factory fires](https://wikipedia.org/wiki/2012_Pakistan_garment_factory_fires)
+  - [Pakistan](https://wikipedia.org/wiki/Pakistan)
 
-- #### 2002 Switzerland, traditionally a neutral country, joins the United Nations.
+- #### 2011 The National September 11 Memorial & Museum is open on the 10th anniversary of the September 11th attack
 
-  - [Neutral country](https://wikipedia.org/wiki/Neutral_country)
-  - [United Nations](https://wikipedia.org/wiki/United_Nations)
+  - [National September 11 Memorial & Museum](https://wikipedia.org/wiki/National_September_11_Memorial_%26_Museum)
+  - [September 11 attacks](https://wikipedia.org/wiki/September_11_attacks)
 
-- #### 2001 Antônio da Costa Santos, mayor of Campinas, Brazil is assassinated.
+- #### 2008 A major Channel Tunnel fire breaks out on a freight train, resulting in the closure of part of the tunnel for six months.
 
-  - [Antônio da Costa Santos](https://wikipedia.org/wiki/Ant%C3%B4nio_da_Costa_Santos)
-  - [Campinas](https://wikipedia.org/wiki/Campinas)
+  - [2008 Channel Tunnel fire](https://wikipedia.org/wiki/2008_Channel_Tunnel_fire)
+  - [Channel Tunnel](https://wikipedia.org/wiki/Channel_Tunnel)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
