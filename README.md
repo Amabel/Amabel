@@ -1,36 +1,36 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--11%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--12%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - September, 11
+# What Happened On This Day - September, 12
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2015 A crane collapses onto the Masjid al-Haram mosque in Saudi Arabia, killing 111 people and injuring 394 others.
+- #### 2015 A series of explosions involving propane triggering nearby illegally stored mining detonators in the Indian town of Petlawad in the state of Madhya Pradesh(मध्य प्रदेश) kills at least 105 people with over 150 injured.
 
-  - [Mecca crane collapse](https://wikipedia.org/wiki/Mecca_crane_collapse)
-  - [Masjid al-Haram](https://wikipedia.org/wiki/Masjid_al-Haram)
-  - [Saudi Arabia](https://wikipedia.org/wiki/Saudi_Arabia)
+  - [Petlawad explosion](https://wikipedia.org/wiki/Petlawad_explosion)
+  - [Propane](https://wikipedia.org/wiki/Propane)
+  - [Petlawad](https://wikipedia.org/wiki/Petlawad)
+  - [Madhya Pradesh](https://wikipedia.org/wiki/Madhya_Pradesh)
 
-- #### 2012 The U.S. embassy in Benghazi, Libya is attacked, resulting in four deaths.
+- #### 2014 Three-year-old William Tyrrell disappears in Kendall, New South Wales, Australia
 
-  - [Benghazi](https://wikipedia.org/wiki/Benghazi)
-  - [2012 Benghazi attack](https://wikipedia.org/wiki/2012_Benghazi_attack)
+  - [Disappearance of William Tyrrell](https://wikipedia.org/wiki/Disappearance_of_William_Tyrrell)
 
-- #### 2012 A total of 315 people are killed in two garment factory fires in Pakistan.
+- #### 2011 The 9/11 Memorial Museum in New York City opens to the public.
 
-  - [2012 Pakistan garment factory fires](https://wikipedia.org/wiki/2012_Pakistan_garment_factory_fires)
-  - [Pakistan](https://wikipedia.org/wiki/Pakistan)
+  - [9/11 Memorial Museum](https://wikipedia.org/wiki/9/11_Memorial_Museum)
 
-- #### 2011 The National September 11 Memorial & Museum is open on the 10th anniversary of the September 11th attack
+- #### 2008 The 2008 Chatsworth train collision in Los Angeles between a Metrolink commuter train and a Union Pacific freight train kills 25 people.
 
-  - [National September 11 Memorial & Museum](https://wikipedia.org/wiki/National_September_11_Memorial_%26_Museum)
-  - [September 11 attacks](https://wikipedia.org/wiki/September_11_attacks)
+  - [2008 Chatsworth train collision](https://wikipedia.org/wiki/2008_Chatsworth_train_collision)
+  - [Metrolink (Southern California)](https://wikipedia.org/wiki/Metrolink_(Southern_California))
+  - [Union Pacific](https://wikipedia.org/wiki/Union_Pacific)
 
-- #### 2008 A major Channel Tunnel fire breaks out on a freight train, resulting in the closure of part of the tunnel for six months.
+- #### 2007 Former Philippine President Joseph Estrada is convicted of plunder.
 
-  - [2008 Channel Tunnel fire](https://wikipedia.org/wiki/2008_Channel_Tunnel_fire)
-  - [Channel Tunnel](https://wikipedia.org/wiki/Channel_Tunnel)
+  - [Joseph Estrada](https://wikipedia.org/wiki/Joseph_Estrada)
+  - [Plunder](https://wikipedia.org/wiki/Plunder)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
