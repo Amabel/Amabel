@@ -1,36 +1,39 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--12%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--13%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - September, 12
+# What Happened On This Day - September, 13
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2015 A series of explosions involving propane triggering nearby illegally stored mining detonators in the Indian town of Petlawad in the state of Madhya Pradesh(मध्य प्रदेश) kills at least 105 people with over 150 injured.
+- #### 2013 Taliban insurgents attack the United States consulate in Herat, Afghanistan, with two members of the Afghan National Police reported dead and about 20 civilians injured.
 
-  - [Petlawad explosion](https://wikipedia.org/wiki/Petlawad_explosion)
-  - [Propane](https://wikipedia.org/wiki/Propane)
-  - [Petlawad](https://wikipedia.org/wiki/Petlawad)
-  - [Madhya Pradesh](https://wikipedia.org/wiki/Madhya_Pradesh)
+  - [Taliban](https://wikipedia.org/wiki/Taliban)
+  - [2013 attack on U.S. consulate in Herat](https://wikipedia.org/wiki/2013_attack_on_U.S._consulate_in_Herat)
+  - [Afghanistan](https://wikipedia.org/wiki/Afghanistan)
+  - [Afghan National Police](https://wikipedia.org/wiki/Afghan_National_Police)
 
-- #### 2014 Three-year-old William Tyrrell disappears in Kendall, New South Wales, Australia
+- #### 2008 Hurricane Ike makes landfall on the Texas Gulf Coast of the United States, causing heavy damage to Galveston Island, Houston, and surrounding areas.
 
-  - [Disappearance of William Tyrrell](https://wikipedia.org/wiki/Disappearance_of_William_Tyrrell)
+  - [Hurricane Ike](https://wikipedia.org/wiki/Hurricane_Ike)
+  - [Texas](https://wikipedia.org/wiki/Texas)
+  - [Gulf Coast of the United States](https://wikipedia.org/wiki/Gulf_Coast_of_the_United_States)
+  - [Galveston Island](https://wikipedia.org/wiki/Galveston_Island)
+  - [Houston](https://wikipedia.org/wiki/Houston)
 
-- #### 2011 The 9/11 Memorial Museum in New York City opens to the public.
+- #### 2008 Delhi, India, is hit by a series of bomb blasts, resulting in 30 deaths and 130 injuries.
 
-  - [9/11 Memorial Museum](https://wikipedia.org/wiki/9/11_Memorial_Museum)
+  - [Delhi](https://wikipedia.org/wiki/Delhi)
+  - [13 September 2008 Delhi bombings](https://wikipedia.org/wiki/13_September_2008_Delhi_bombings)
 
-- #### 2008 The 2008 Chatsworth train collision in Los Angeles between a Metrolink commuter train and a Union Pacific freight train kills 25 people.
+- #### 2007 The Declaration on the Rights of Indigenous Peoples is adopted by the United Nations General Assembly.
 
-  - [2008 Chatsworth train collision](https://wikipedia.org/wiki/2008_Chatsworth_train_collision)
-  - [Metrolink (Southern California)](https://wikipedia.org/wiki/Metrolink_(Southern_California))
-  - [Union Pacific](https://wikipedia.org/wiki/Union_Pacific)
+  - [Declaration on the Rights of Indigenous Peoples](https://wikipedia.org/wiki/Declaration_on_the_Rights_of_Indigenous_Peoples)
+  - [United Nations General Assembly](https://wikipedia.org/wiki/United_Nations_General_Assembly)
 
-- #### 2007 Former Philippine President Joseph Estrada is convicted of plunder.
+- #### 2001 Civilian aircraft traffic resumes in the United States after the September 11 attacks.
 
-  - [Joseph Estrada](https://wikipedia.org/wiki/Joseph_Estrada)
-  - [Plunder](https://wikipedia.org/wiki/Plunder)
+  - [September 11 attacks](https://wikipedia.org/wiki/September_11_attacks)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
