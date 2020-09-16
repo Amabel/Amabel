@@ -1,40 +1,38 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--15%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--16%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - September, 15
+# What Happened On This Day - September, 16
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2017 The Parsons Green Bombing took place in London, United Kingdom
+- #### 2014 The Islamic State of Iraq and the Levant launches its Kobani offensive against Syrian-Kurdish forces.
 
-  - [2017 Parsons Green bombing](https://wikipedia.org/wiki/2017_Parsons_Green_bombing)
-  - [London, United Kingdom](https://wikipedia.org/wiki/London,_United_Kingdom)
+  - [Islamic State of Iraq and the Levant](https://wikipedia.org/wiki/Islamic_State_of_Iraq_and_the_Levant)
+  - [Siege of Kobanî](https://wikipedia.org/wiki/Siege_of_Koban%C3%AE)
 
-- #### 2008 Lehman Brothers files for Chapter 11 bankruptcy, the largest bankruptcy filing in U.S. history.
+- #### 2013 A gunman kills twelve people at the Navy Yard in Washington, D.C.
 
-  - [Lehman Brothers](https://wikipedia.org/wiki/Lehman_Brothers)
-  - [Chapter 11, Title 11, United States Code](https://wikipedia.org/wiki/Chapter_11,_Title_11,_United_States_Code)
+  - [Washington Navy Yard shooting](https://wikipedia.org/wiki/Washington_Navy_Yard_shooting)
+  - [Washington Navy Yard](https://wikipedia.org/wiki/Washington_Navy_Yard)
 
-- #### 2004 National Hockey League commissioner Gary Bettman announces lockout of the players' union and cessation of operations by the NHL head office.
+- #### 2007 Mercenaries working for Blackwater Worldwide shoot and kill 17 Iraqis in Nisour Square, Baghdad
 
-  - [National Hockey League](https://wikipedia.org/wiki/National_Hockey_League)
-  - [Gary Bettman](https://wikipedia.org/wiki/Gary_Bettman)
-  - [2004-05 NHL lockout](https://wikipedia.org/wiki/2004%E2%80%9305_NHL_lockout)
-  - [National Hockey League Players' Association](https://wikipedia.org/wiki/National_Hockey_League_Players%27_Association)
+  - [Mercenary](https://wikipedia.org/wiki/Mercenary)
+  - [Blackwater Worldwide](https://wikipedia.org/wiki/Blackwater_Worldwide)
+  - [Blackwater Baghdad shootings](https://wikipedia.org/wiki/Blackwater_Baghdad_shootings)
 
-- #### 2001 President George W. Bush gives his first post September 11th weekly address.
+- #### 2007 One-Two-GO Airlines Flight 269 carrying 128 crew and passengers crashes in Thailand killing 89 people.
 
-  - [President of the United States](https://wikipedia.org/wiki/President_of_the_United_States)
-  - [George W. Bush](https://wikipedia.org/wiki/George_W._Bush)
-  - [September 11 attacks](https://wikipedia.org/wiki/September_11_attacks)
-  - [Weekly Radio Address of the President of the United States](https://wikipedia.org/wiki/Weekly_Radio_Address_of_the_President_of_the_United_States)
+  - [One-Two-GO Airlines Flight 269](https://wikipedia.org/wiki/One-Two-GO_Airlines_Flight_269)
+  - [Thailand](https://wikipedia.org/wiki/Thailand)
 
-- #### 1983 Israeli premier Menachem Begin resigns.
+- #### 2005 The Camorra organized crime boss Paolo Di Lauro is arrested in Naples, Italy.
 
-  - [Israel](https://wikipedia.org/wiki/Israel)
-  - [Premier](https://wikipedia.org/wiki/Premier)
-  - [Menachem Begin](https://wikipedia.org/wiki/Menachem_Begin)
+  - [Camorra](https://wikipedia.org/wiki/Camorra)
+  - [Organized crime](https://wikipedia.org/wiki/Organized_crime)
+  - [Paolo Di Lauro](https://wikipedia.org/wiki/Paolo_Di_Lauro)
+  - [Naples](https://wikipedia.org/wiki/Naples)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
