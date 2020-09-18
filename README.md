@@ -1,39 +1,37 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--17%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--18%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - September, 17
+# What Happened On This Day - September, 18
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2016 Two bombs explode in Seaside Park, New Jersey, and Manhattan, New York. 31 people are injured in the Manhattan bombing.
+- #### 2016 Seventeen Indian Army security personnel killed in the Indian Administrated Kashmir by anti-government militants.
 
-  - [2016 New York and New Jersey bombings](https://wikipedia.org/wiki/2016_New_York_and_New_Jersey_bombings)
-  - [Seaside Park, New Jersey](https://wikipedia.org/wiki/Seaside_Park,_New_Jersey)
-  - [Manhattan](https://wikipedia.org/wiki/Manhattan)
+  - [Indian Army](https://wikipedia.org/wiki/Indian_Army)
+  - [Indian Administrated Kashmir](https://wikipedia.org/wiki/Indian_Administrated_Kashmir)
 
-- #### 2011 Occupy Wall Street movement begins in Zuccotti Park, New York City.
+- #### 2015 Two security personnel, 17 worshippers in a mosque, and 13 militants are killed following a Tehrik-i-Taliban Pakistan attack on a Pakistan Air Force base on the outskirts of Peshawar.
 
-  - [Occupy Wall Street](https://wikipedia.org/wiki/Occupy_Wall_Street)
-  - [Zuccotti Park](https://wikipedia.org/wiki/Zuccotti_Park)
+  - [Tehrik-i-Taliban Pakistan](https://wikipedia.org/wiki/Tehrik-i-Taliban_Pakistan)
+  - [2015 Camp Badaber attack](https://wikipedia.org/wiki/2015_Camp_Badaber_attack)
+  - [Pakistan Air Force](https://wikipedia.org/wiki/Pakistan_Air_Force)
+  - [Peshawar](https://wikipedia.org/wiki/Peshawar)
 
-- #### 2006 An audio tape of a private speech by Hungarian Prime Minister Ferenc Gyurcsány is leaked to the public, in which he confessed that his Hungarian Socialist Party had lied to win the 2006 election, sparking widespread protests across the country.
+- #### 2014 Scotland votes against independence from the United Kingdom.
 
-  - [Őszöd speech](https://wikipedia.org/wiki/%C5%90sz%C3%B6d_speech)
-  - [Ferenc Gyurcsány](https://wikipedia.org/wiki/Ferenc_Gyurcs%C3%A1ny)
-  - [Hungarian Socialist Party](https://wikipedia.org/wiki/Hungarian_Socialist_Party)
-  - [Hungarian parliamentary election, 2006](https://wikipedia.org/wiki/Hungarian_parliamentary_election,_2006)
-  - [2006 protests in Hungary](https://wikipedia.org/wiki/2006_protests_in_Hungary)
+  - [Scotland](https://wikipedia.org/wiki/Scotland)
+  - [Scottish independence referendum, 2014](https://wikipedia.org/wiki/Scottish_independence_referendum,_2014)
 
-- #### 2006 Fourpeaked Mountain in Alaska erupts, marking the first eruption for the long-dormant volcano in at least 10,000 years.
+- #### 2011 The 2011 Sikkim earthquake was felt across northeastern India, Nepal, Bhutan, Bangladesh and southern Tibet.
 
-  - [Fourpeaked Mountain](https://wikipedia.org/wiki/Fourpeaked_Mountain)
+  - [2011 Sikkim earthquake](https://wikipedia.org/wiki/2011_Sikkim_earthquake)
 
-- #### 2001 The New York Stock Exchange reopens for trading after the September 11 attacks, the longest closure since the Great Depression.
+- #### 2007 Buddhist monks join anti-government protesters in Myanmar, starting what some call the Saffron Revolution.
 
-  - [New York Stock Exchange](https://wikipedia.org/wiki/New_York_Stock_Exchange)
-  - [September 11 attacks](https://wikipedia.org/wiki/September_11_attacks)
-  - [Great Depression](https://wikipedia.org/wiki/Great_Depression)
+  - [Bhikkhu](https://wikipedia.org/wiki/Bhikkhu)
+  - [Myanmar](https://wikipedia.org/wiki/Myanmar)
+  - [Saffron Revolution](https://wikipedia.org/wiki/Saffron_Revolution)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
