@@ -1,40 +1,33 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--22%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--23%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - September, 22
+# What Happened On This Day - September, 23
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2013 At least 75 people are killed in a suicide bombing at a Christian church in Peshawar, Pakistan.
+- #### 2008 Kauhajoki school shooting: Matti Saari kills ten people before committing suicide.
 
-  - [Peshawar church attack](https://wikipedia.org/wiki/Peshawar_church_attack)
-  - [All Saints Church, Peshawar](https://wikipedia.org/wiki/All_Saints_Church,_Peshawar)
-  - [Peshawar](https://wikipedia.org/wiki/Peshawar)
+  - [Kauhajoki school shooting](https://wikipedia.org/wiki/Kauhajoki_school_shooting)
 
-- #### 1995 Nagerkovil school bombing, is carried out by the Sri Lanka Air Force in which at least 34 die, most of them ethnic Tamil schoolchildren.
+- #### 2004 Over 3,000 people die in Haiti after Hurricane Jeanne produces massive flooding and mudslides.
 
-  - [Nagerkovil school bombing](https://wikipedia.org/wiki/Nagerkovil_school_bombing)
-  - [Sri Lanka Air Force](https://wikipedia.org/wiki/Sri_Lanka_Air_Force)
-  - [Tamils](https://wikipedia.org/wiki/Tamils)
+  - [Haiti](https://wikipedia.org/wiki/Haiti)
+  - [Hurricane Jeanne](https://wikipedia.org/wiki/Hurricane_Jeanne)
 
-- #### 1995 An E-3B AWACS crashes outside Elmendorf Air Force Base, Alaska after multiple bird strikes to two of the four engines soon after takeoff; all 24 on board are killed.
+- #### 2002 The first public version of the web browser Mozilla Firefox ("Phoenix 0.1") is released.
 
-  - [E-3 Sentry](https://wikipedia.org/wiki/E-3_Sentry)
-  - [Elmendorf Air Force Base](https://wikipedia.org/wiki/Elmendorf_Air_Force_Base)
-  - [Bird strike](https://wikipedia.org/wiki/Bird_strike)
+  - [Mozilla Firefox](https://wikipedia.org/wiki/Mozilla_Firefox)
 
-- #### 1993 A Transair Georgian Airlines Tu-154 is shot down by a missile in Sukhumi, Georgia.
+- #### 1986 Jim Deshaies of the Houston Astros sets a major league record by striking out the first eight batters he faces in a game against the Los Angeles Dodgers.
 
-  - [Transair Georgia airliner shootdowns](https://wikipedia.org/wiki/Transair_Georgia_airliner_shootdowns)
-  - [Sukhumi](https://wikipedia.org/wiki/Sukhumi)
-  - [Georgia (country)](https://wikipedia.org/wiki/Georgia_(country))
+  - [Jim Deshaies](https://wikipedia.org/wiki/Jim_Deshaies)
+  - [Houston Astros](https://wikipedia.org/wiki/Houston_Astros)
+  - [Los Angeles Dodgers](https://wikipedia.org/wiki/Los_Angeles_Dodgers)
 
-- #### 1993 A barge strikes a railroad bridge near Mobile, Alabama, causing the deadliest train wreck in Amtrak history. Forty-seven passengers are killed.
+- #### 1983 Gulf Air Flight 771 is destroyed by a bomb, killing all 117 people on board.
 
-  - [Mobile, Alabama](https://wikipedia.org/wiki/Mobile,_Alabama)
-  - [1993 Big Bayou Canot train wreck](https://wikipedia.org/wiki/1993_Big_Bayou_Canot_train_wreck)
-  - [Amtrak](https://wikipedia.org/wiki/Amtrak)
+  - [Gulf Air Flight 771](https://wikipedia.org/wiki/Gulf_Air_Flight_771)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
