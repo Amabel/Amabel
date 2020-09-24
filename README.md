@@ -1,33 +1,38 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--23%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--24%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - September, 23
+# What Happened On This Day - September, 24
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2008 Kauhajoki school shooting: Matti Saari kills ten people before committing suicide.
+- #### 2015 At least 1,100 people are killed and another 934 wounded after a stampede during the Hajj in Saudi Arabia.
 
-  - [Kauhajoki school shooting](https://wikipedia.org/wiki/Kauhajoki_school_shooting)
+  - [2015 Mina disaster](https://wikipedia.org/wiki/2015_Mina_disaster)
+  - [Hajj](https://wikipedia.org/wiki/Hajj)
+  - [Saudi Arabia](https://wikipedia.org/wiki/Saudi_Arabia)
 
-- #### 2004 Over 3,000 people die in Haiti after Hurricane Jeanne produces massive flooding and mudslides.
+- #### 2014 The Mars Orbiter Mission (MOM), a Mars orbiter launched into Earth orbit by the Indian Space Research Organisation (ISRO), successfully inserted into orbit of Mars.
 
-  - [Haiti](https://wikipedia.org/wiki/Haiti)
-  - [Hurricane Jeanne](https://wikipedia.org/wiki/Hurricane_Jeanne)
+  - [Mars Orbiter Mission](https://wikipedia.org/wiki/Mars_Orbiter_Mission)
+  - [Indian Space Research Organisation](https://wikipedia.org/wiki/Indian_Space_Research_Organisation)
 
-- #### 2002 The first public version of the web browser Mozilla Firefox ("Phoenix 0.1") is released.
+- #### 2013 A 7.7-magnitude earthquake strikes southern Pakistan, killing more than 327 people.
 
-  - [Mozilla Firefox](https://wikipedia.org/wiki/Mozilla_Firefox)
+  - [Moment magnitude scale](https://wikipedia.org/wiki/Moment_magnitude_scale)
+  - [2013 Balochistan earthquakes](https://wikipedia.org/wiki/2013_Balochistan_earthquakes)
+  - [Pakistan](https://wikipedia.org/wiki/Pakistan)
 
-- #### 1986 Jim Deshaies of the Houston Astros sets a major league record by striking out the first eight batters he faces in a game against the Los Angeles Dodgers.
+- #### 2009 The G20 summit begins in Pittsburgh with 30 global leaders in attendance. It marks the first use of Long-Range Acoustic Devices in U.S. history.
 
-  - [Jim Deshaies](https://wikipedia.org/wiki/Jim_Deshaies)
-  - [Houston Astros](https://wikipedia.org/wiki/Houston_Astros)
-  - [Los Angeles Dodgers](https://wikipedia.org/wiki/Los_Angeles_Dodgers)
+  - [2009 G-20 Pittsburgh summit](https://wikipedia.org/wiki/2009_G-20_Pittsburgh_summit)
+  - [Pittsburgh](https://wikipedia.org/wiki/Pittsburgh)
+  - [LRAD](https://wikipedia.org/wiki/LRAD)
 
-- #### 1983 Gulf Air Flight 771 is destroyed by a bomb, killing all 117 people on board.
+- #### 2007 Between 30,000 and 100,000 people take part in anti-government protests in Yangon, Burma, the largest in 20 years.
 
-  - [Gulf Air Flight 771](https://wikipedia.org/wiki/Gulf_Air_Flight_771)
+  - [2007 Burmese anti-government protests](https://wikipedia.org/wiki/2007_Burmese_anti-government_protests)
+  - [Yangon](https://wikipedia.org/wiki/Yangon)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
