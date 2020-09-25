@@ -1,38 +1,38 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--24%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--25%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - September, 24
+# What Happened On This Day - September, 25
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2015 At least 1,100 people are killed and another 934 wounded after a stampede during the Hajj in Saudi Arabia.
+- #### 2003 The 8.3 Mw Hokkaidō earthquake strikes just offshore Hokkaidō, Japan.
 
-  - [2015 Mina disaster](https://wikipedia.org/wiki/2015_Mina_disaster)
-  - [Hajj](https://wikipedia.org/wiki/Hajj)
-  - [Saudi Arabia](https://wikipedia.org/wiki/Saudi_Arabia)
+  - [2003 Hokkaidō earthquake](https://wikipedia.org/wiki/2003_Hokkaid%C5%8D_earthquake)
+  - [Hokkaidō](https://wikipedia.org/wiki/Hokkaid%C5%8D)
 
-- #### 2014 The Mars Orbiter Mission (MOM), a Mars orbiter launched into Earth orbit by the Indian Space Research Organisation (ISRO), successfully inserted into orbit of Mars.
+- #### 1992 NASA launches the Mars Observer, a $511 million probe to Mars, in the first U.S. mission to the planet in 17 years. Eleven months later, the probe would fail.
 
-  - [Mars Orbiter Mission](https://wikipedia.org/wiki/Mars_Orbiter_Mission)
-  - [Indian Space Research Organisation](https://wikipedia.org/wiki/Indian_Space_Research_Organisation)
+  - [NASA](https://wikipedia.org/wiki/NASA)
+  - [Mars Observer](https://wikipedia.org/wiki/Mars_Observer)
+  - [Mars](https://wikipedia.org/wiki/Mars)
 
-- #### 2013 A 7.7-magnitude earthquake strikes southern Pakistan, killing more than 327 people.
+- #### 1983 Maze Prison escape: Thirty-eight IRA prisoners, armed with six handguns, hijack a prison meals lorry and smash their way out of the Maze prison.
 
-  - [Moment magnitude scale](https://wikipedia.org/wiki/Moment_magnitude_scale)
-  - [2013 Balochistan earthquakes](https://wikipedia.org/wiki/2013_Balochistan_earthquakes)
-  - [Pakistan](https://wikipedia.org/wiki/Pakistan)
+  - [Maze Prison escape](https://wikipedia.org/wiki/Maze_Prison_escape)
+  - [HM Prison Maze](https://wikipedia.org/wiki/HM_Prison_Maze)
 
-- #### 2009 The G20 summit begins in Pittsburgh with 30 global leaders in attendance. It marks the first use of Long-Range Acoustic Devices in U.S. history.
+- #### 1981 Belize joins the United Nations.
 
-  - [2009 G-20 Pittsburgh summit](https://wikipedia.org/wiki/2009_G-20_Pittsburgh_summit)
-  - [Pittsburgh](https://wikipedia.org/wiki/Pittsburgh)
-  - [LRAD](https://wikipedia.org/wiki/LRAD)
+  - [Belize](https://wikipedia.org/wiki/Belize)
+  - [United Nations](https://wikipedia.org/wiki/United_Nations)
 
-- #### 2007 Between 30,000 and 100,000 people take part in anti-government protests in Yangon, Burma, the largest in 20 years.
+- #### 1978 PSA Flight 182, a Boeing 727, collides in mid-air with a Cessna 172 and crashes in San Diego, killing 144 people.
 
-  - [2007 Burmese anti-government protests](https://wikipedia.org/wiki/2007_Burmese_anti-government_protests)
-  - [Yangon](https://wikipedia.org/wiki/Yangon)
+  - [PSA Flight 182](https://wikipedia.org/wiki/PSA_Flight_182)
+  - [Boeing 727](https://wikipedia.org/wiki/Boeing_727)
+  - [Cessna 172](https://wikipedia.org/wiki/Cessna_172)
+  - [San Diego](https://wikipedia.org/wiki/San_Diego)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
