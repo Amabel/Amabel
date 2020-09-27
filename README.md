@@ -1,43 +1,34 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--26%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--09--27%2000%3A11%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - September, 26
+# What Happened On This Day - September, 27
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2014 A mass kidnapping occurs in Iguala, Mexico.
+- #### 2014 Eruption of Mount Ontake in Japan occurs.
 
-  - [2014 Iguala mass kidnapping](https://wikipedia.org/wiki/2014_Iguala_mass_kidnapping)
-  - [Iguala](https://wikipedia.org/wiki/Iguala)
+  - [2014 Mount Ontake eruption](https://wikipedia.org/wiki/2014_Mount_Ontake_eruption)
 
-- #### 2009 Typhoon Ketsana hits the Philippines, China, Vietnam, Cambodia, Laos and Thailand, causing 700 fatalities.
+- #### 2012 A mass shooting takes place at Accent Signage Systems, in Minneapolis, Minnesota, killing six people, including the gunman who committed suicide, and wounding two others.
 
-  - [Typhoon Ketsana](https://wikipedia.org/wiki/Typhoon_Ketsana)
-  - [Philippines](https://wikipedia.org/wiki/Philippines)
-  - [Vietnam](https://wikipedia.org/wiki/Vietnam)
-  - [Cambodia](https://wikipedia.org/wiki/Cambodia)
-  - [Laos](https://wikipedia.org/wiki/Laos)
-  - [Thailand](https://wikipedia.org/wiki/Thailand)
+  - [2012 Minneapolis workplace shooting](https://wikipedia.org/wiki/2012_Minneapolis_workplace_shooting)
+  - [Minneapolis, Minnesota](https://wikipedia.org/wiki/Minneapolis,_Minnesota)
 
-- #### 2008 Swiss pilot and inventor Yves Rossy becomes first person to fly a jet engine-powered wing across the English Channel.
+- #### 2008 CNSA astronaut Zhai Zhigang becomes the first Chinese person to perform a spacewalk while flying on Shenzhou 7.
 
-  - [Yves Rossy](https://wikipedia.org/wiki/Yves_Rossy)
-  - [Jet pack](https://wikipedia.org/wiki/Jet_pack#Yves_Rossy.27s_jet_wingpack)
-  - [English Channel](https://wikipedia.org/wiki/English_Channel)
+  - [China National Space Administration](https://wikipedia.org/wiki/China_National_Space_Administration)
+  - [Zhai Zhigang](https://wikipedia.org/wiki/Zhai_Zhigang)
+  - [Shenzhou 7](https://wikipedia.org/wiki/Shenzhou_7)
 
-- #### 2005 The PBS Kids Channel is shut down and replaced by a joint network with Comcast called Sprout.
+- #### 2007 NASA launches the Dawn probe.
 
-  - [PBS Kids](https://wikipedia.org/wiki/PBS_Kids)
-  - [Comcast](https://wikipedia.org/wiki/Comcast)
-  - [Sprout (TV Network)](https://wikipedia.org/wiki/Sprout_(TV_Network))
+  - [NASA](https://wikipedia.org/wiki/NASA)
+  - [Dawn (spacecraft)](https://wikipedia.org/wiki/Dawn_(spacecraft))
 
-- #### 2002 An overcrowded Senegalese ferry, MV Le Joola, capsizes off the coast of the Gambia killing more than 1,000.
+- #### 2003 SMART-1 satellite is launched.
 
-  - [Senegal](https://wikipedia.org/wiki/Senegal)
-  - [Ferry](https://wikipedia.org/wiki/Ferry)
-  - [MV Le Joola](https://wikipedia.org/wiki/MV_Le_Joola)
-  - [The Gambia](https://wikipedia.org/wiki/The_Gambia)
+  - [SMART-1](https://wikipedia.org/wiki/SMART-1)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
