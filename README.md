@@ -1,39 +1,40 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--02%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--03%2000%3A12%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - October, 2
+# What Happened On This Day - October, 3
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2016 Ethiopian protests: Violence breaks out during an Irreechaa festival in the Oromia region, killing dozens of people.
+- #### 2015 Forty-two killed and 33 missing in Kunduz hospital airstrike operated by Médecins Sans Frontières.
 
-  - [2016 Ethiopian protests](https://wikipedia.org/wiki/2016_Ethiopian_protests)
-  - [Irreechaa](https://wikipedia.org/wiki/Irreechaa)
-  - [Oromia region](https://wikipedia.org/wiki/Oromia_region)
+  - [Kunduz hospital airstrike](https://wikipedia.org/wiki/Kunduz_hospital_airstrike)
+  - [Médecins Sans Frontières](https://wikipedia.org/wiki/M%C3%A9decins_Sans_Fronti%C3%A8res)
 
-- #### 2007 President Roh Moo-hyun of South Korea walks across the Military Demarcation Line into North Korea on his way to the second Inter-Korean summit with North Korean leader Kim Jong-il.
+- #### 2013 At least 134 migrants are killed when their boat sinks near the Italian island of Lampedusa.
 
-  - [Roh Moo-hyun](https://wikipedia.org/wiki/Roh_Moo-hyun)
-  - [Military Demarcation Line](https://wikipedia.org/wiki/Military_Demarcation_Line)
-  - [North Korea](https://wikipedia.org/wiki/North_Korea)
-  - [Inter-Korean summit](https://wikipedia.org/wiki/Inter-Korean_summit)
-  - [Kim Jong-il](https://wikipedia.org/wiki/Kim_Jong-il)
+  - [2013 Mediterranean Sea migrant shipwreck](https://wikipedia.org/wiki/2013_Mediterranean_Sea_migrant_shipwreck)
+  - [Lampedusa](https://wikipedia.org/wiki/Lampedusa)
 
-- #### 2006 Five Amish girls are murdered by Charles Carl Roberts in a shooting at an Amish school in Nickel Mines, Pennsylvania before Roberts commits suicide.
+- #### 2009 The presidents of Azerbaijan, Kazakhstan, Kyrgyzstan, and Turkey sign the Nakhchivan Agreement on the Establishment of Turkic Council.
 
-  - [Charles Carl Roberts](https://wikipedia.org/wiki/Charles_Carl_Roberts)
-  - [West Nickel Mines School shooting](https://wikipedia.org/wiki/West_Nickel_Mines_School_shooting)
-  - [Nickel Mines, Pennsylvania](https://wikipedia.org/wiki/Nickel_Mines,_Pennsylvania)
+  - [Azerbaijan](https://wikipedia.org/wiki/Azerbaijan)
+  - [Kazakhstan](https://wikipedia.org/wiki/Kazakhstan)
+  - [Kyrgyzstan](https://wikipedia.org/wiki/Kyrgyzstan)
+  - [Turkey](https://wikipedia.org/wiki/Turkey)
+  - [Turkic Council](https://wikipedia.org/wiki/Turkic_Council)
 
-- #### 2002 The Beltway sniper attacks begin, extending over three weeks.
+- #### 2008 The Emergency Economic Stabilization Act of 2008 for the U.S. financial system is signed by President George W. Bush.
 
-  - [Beltway sniper attacks](https://wikipedia.org/wiki/Beltway_sniper_attacks)
+  - [Emergency Economic Stabilization Act of 2008](https://wikipedia.org/wiki/Emergency_Economic_Stabilization_Act_of_2008)
+  - [George W. Bush](https://wikipedia.org/wiki/George_W._Bush)
 
-- #### 1996 The Electronic Freedom of Information Act Amendments are signed by U.S. President Bill Clinton.
+- #### 1995 O. J. Simpson is acquitted of the murders of Nicole Brown Simpson and Ronald Goldman.
 
-  - [Freedom of Information Act (United States)](https://wikipedia.org/wiki/Freedom_of_Information_Act_(United_States))
-  - [Bill Clinton](https://wikipedia.org/wiki/Bill_Clinton)
+  - [O. J. Simpson](https://wikipedia.org/wiki/O._J._Simpson)
+  - [O. J. Simpson murder case](https://wikipedia.org/wiki/O._J._Simpson_murder_case)
+  - [Nicole Brown Simpson](https://wikipedia.org/wiki/Nicole_Brown_Simpson)
+  - [Ronald Goldman](https://wikipedia.org/wiki/Ronald_Goldman)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
