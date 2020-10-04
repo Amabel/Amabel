@@ -1,40 +1,40 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--03%2000%3A12%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--04%2000%3A12%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - October, 3
+# What Happened On This Day - October, 4
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2015 Forty-two killed and 33 missing in Kunduz hospital airstrike operated by Médecins Sans Frontières.
+- #### 2010 The Ajka plant accident in western Hungary releases about a million cubic metres (35 million cubic feet) of liquid alumina sludge. Nine people are killed and 122 injured, and the Marcal and Danube rivers are severely contaminated.
 
-  - [Kunduz hospital airstrike](https://wikipedia.org/wiki/Kunduz_hospital_airstrike)
-  - [Médecins Sans Frontières](https://wikipedia.org/wiki/M%C3%A9decins_Sans_Fronti%C3%A8res)
+  - [Ajka alumina plant accident](https://wikipedia.org/wiki/Ajka_alumina_plant_accident)
+  - [Red mud](https://wikipedia.org/wiki/Red_mud)
+  - [Marcal](https://wikipedia.org/wiki/Marcal)
+  - [Danube](https://wikipedia.org/wiki/Danube)
 
-- #### 2013 At least 134 migrants are killed when their boat sinks near the Italian island of Lampedusa.
+- #### 2006 Wikileaks is launched by Julian Assange.
 
-  - [2013 Mediterranean Sea migrant shipwreck](https://wikipedia.org/wiki/2013_Mediterranean_Sea_migrant_shipwreck)
-  - [Lampedusa](https://wikipedia.org/wiki/Lampedusa)
+  - [Wikileaks](https://wikipedia.org/wiki/Wikileaks)
+  - [Julian Assange](https://wikipedia.org/wiki/Julian_Assange)
 
-- #### 2009 The presidents of Azerbaijan, Kazakhstan, Kyrgyzstan, and Turkey sign the Nakhchivan Agreement on the Establishment of Turkic Council.
+- #### 2004 SpaceShipOne wins Ansari X Prize for private spaceflight, by being the first private craft to fly into space.
 
-  - [Azerbaijan](https://wikipedia.org/wiki/Azerbaijan)
-  - [Kazakhstan](https://wikipedia.org/wiki/Kazakhstan)
-  - [Kyrgyzstan](https://wikipedia.org/wiki/Kyrgyzstan)
-  - [Turkey](https://wikipedia.org/wiki/Turkey)
-  - [Turkic Council](https://wikipedia.org/wiki/Turkic_Council)
+  - [SpaceShipOne](https://wikipedia.org/wiki/SpaceShipOne)
+  - [Ansari X Prize](https://wikipedia.org/wiki/Ansari_X_Prize)
+  - [Private spaceflight](https://wikipedia.org/wiki/Private_spaceflight)
 
-- #### 2008 The Emergency Economic Stabilization Act of 2008 for the U.S. financial system is signed by President George W. Bush.
+- #### 2003 Maxim restaurant suicide bombing in Haifa, Israel: Twenty-one Israelis, Jews and Arabs, are killed, and 51 others wounded.
 
-  - [Emergency Economic Stabilization Act of 2008](https://wikipedia.org/wiki/Emergency_Economic_Stabilization_Act_of_2008)
-  - [George W. Bush](https://wikipedia.org/wiki/George_W._Bush)
+  - [Maxim restaurant suicide bombing](https://wikipedia.org/wiki/Maxim_restaurant_suicide_bombing)
+  - [Haifa](https://wikipedia.org/wiki/Haifa)
 
-- #### 1995 O. J. Simpson is acquitted of the murders of Nicole Brown Simpson and Ronald Goldman.
+- #### 2001 Siberia Airlines Flight 1812: A Sibir Airlines Tupolev Tu-154 crashes into the Black Sea after being struck by an errant Ukrainian S-200 missile. Seventy-eight people are killed.
 
-  - [O. J. Simpson](https://wikipedia.org/wiki/O._J._Simpson)
-  - [O. J. Simpson murder case](https://wikipedia.org/wiki/O._J._Simpson_murder_case)
-  - [Nicole Brown Simpson](https://wikipedia.org/wiki/Nicole_Brown_Simpson)
-  - [Ronald Goldman](https://wikipedia.org/wiki/Ronald_Goldman)
+  - [Siberia Airlines Flight 1812](https://wikipedia.org/wiki/Siberia_Airlines_Flight_1812)
+  - [Tupolev Tu-154](https://wikipedia.org/wiki/Tupolev_Tu-154)
+  - [Black Sea](https://wikipedia.org/wiki/Black_Sea)
+  - [S-200 (missile)](https://wikipedia.org/wiki/S-200_(missile))
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
