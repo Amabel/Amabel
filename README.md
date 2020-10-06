@@ -1,39 +1,35 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--05%2000%3A12%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--06%2000%3A12%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - October, 5
+# What Happened On This Day - October, 6
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2011 In the Mekong River massacre, two Chinese cargo boats are hijacked and 13 crew members murdered in the lawless Golden Triangle region of Southeast Asia.
+- #### 2007 Jason Lewis completes the first human-powered circumnavigation of the globe.
 
-  - [Mekong River massacre](https://wikipedia.org/wiki/Mekong_River_massacre)
-  - [Golden Triangle (Southeast Asia)](https://wikipedia.org/wiki/Golden_Triangle_(Southeast_Asia))
-  - [Southeast Asia](https://wikipedia.org/wiki/Southeast_Asia)
+  - [Jason Lewis (adventurer)](https://wikipedia.org/wiki/Jason_Lewis_(adventurer))
 
-- #### 2001 Barry Bonds surpasses Mark McGwire's single-season home run total with his milestone 71st and 72nd home runs.
+- #### 1995 51 Pegasi is discovered to be the second major star apart from the Sun to have a planet orbiting around it.
 
-  - [Barry Bonds](https://wikipedia.org/wiki/Barry_Bonds)
-  - [Mark McGwire](https://wikipedia.org/wiki/Mark_McGwire)
-  - [Home run](https://wikipedia.org/wiki/Home_run)
-  - [List of milestone home runs by Barry Bonds](https://wikipedia.org/wiki/List_of_milestone_home_runs_by_Barry_Bonds)
+  - [51 Pegasi](https://wikipedia.org/wiki/51_Pegasi)
+  - [Exoplanet](https://wikipedia.org/wiki/Exoplanet)
+  - [Orbit](https://wikipedia.org/wiki/Orbit)
 
-- #### 2000 Mass demonstrations in Belgrade lead to resignation of Serbian strongman Slobodan Milošević. These demonstrations are often called the Bulldozer Revolution.
+- #### 1987 Fiji becomes a republic.
 
-  - [Belgrade](https://wikipedia.org/wiki/Belgrade)
-  - [Serbia](https://wikipedia.org/wiki/Serbia)
-  - [Slobodan Milošević](https://wikipedia.org/wiki/Slobodan_Milo%C5%A1evi%C4%87)
-  - [Overthrow of Slobodan Milošević](https://wikipedia.org/wiki/Overthrow_of_Slobodan_Milo%C5%A1evi%C4%87)
+  - [Fiji](https://wikipedia.org/wiki/Fiji)
+  - [Republic](https://wikipedia.org/wiki/Republic)
 
-- #### 1999 The Ladbroke Grove rail crash in west London kills 31 people.
+- #### 1985 PC Keith Blakelock is murdered as riots erupt in the Broadwater Farm suburb of London.
 
-  - [Ladbroke Grove rail crash](https://wikipedia.org/wiki/Ladbroke_Grove_rail_crash)
+  - [Death of Keith Blakelock](https://wikipedia.org/wiki/Death_of_Keith_Blakelock)
+  - [Broadwater Farm](https://wikipedia.org/wiki/Broadwater_Farm)
 
-- #### 1991 An Indonesian military transport crashes after takeoff from Jakarta killing 137.
+- #### 1981 Egyptian President Anwar Sadat is murdered by Islamic extremists.
 
-  - [Indonesia](https://wikipedia.org/wiki/Indonesia)
-  - [Jakarta](https://wikipedia.org/wiki/Jakarta)
+  - [Anwar Sadat](https://wikipedia.org/wiki/Anwar_Sadat)
+  - [Assassination of Anwar Sadat](https://wikipedia.org/wiki/Assassination_of_Anwar_Sadat)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
