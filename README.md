@@ -1,37 +1,36 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--07%2000%3A14%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--08%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - October, 7
+# What Happened On This Day - October, 8
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2016 In the wake of Hurricane Matthew, the death toll rises to 800.
+- #### 2016 In the wake of Hurricane Matthew, the death toll rises to nearly 900.
 
   - [Hurricane Matthew](https://wikipedia.org/wiki/Hurricane_Matthew)
 
-- #### 2008 Asteroid 2008 TC3 impacts the Earth over Sudan, the first time an asteroid impact is detected prior to its entry into earth's atmosphere.
+- #### 2014 Thomas Eric Duncan, the first person in the United States to be diagnosed with Ebola, dies.
 
-  - [2008 TC3](https://wikipedia.org/wiki/2008_TC3)
-  - [Sudan](https://wikipedia.org/wiki/Sudan)
+  - [Thomas Eric Duncan](https://wikipedia.org/wiki/Thomas_Eric_Duncan)
+  - [Ebola virus cases in the United States](https://wikipedia.org/wiki/Ebola_virus_cases_in_the_United_States)
 
-- #### 2003 The governor of California, Gray Davis, is recalled in favor of Arnold Schwarzenegger.
+- #### 2005 The 7.6 Mw Kashmir earthquake strikes with a maximum Mercalli intensity of VIII (Severe), leaving 86,000-87,351 people dead, 69,000-75,266 injured, and 2.8 million homeless.
 
-  - [Gray Davis](https://wikipedia.org/wiki/Gray_Davis)
-  - [California gubernatorial recall election](https://wikipedia.org/wiki/California_gubernatorial_recall_election)
-  - [Arnold Schwarzenegger](https://wikipedia.org/wiki/Arnold_Schwarzenegger)
+  - [2005 Kashmir earthquake](https://wikipedia.org/wiki/2005_Kashmir_earthquake)
+  - [Mercalli intensity scale](https://wikipedia.org/wiki/Mercalli_intensity_scale)
 
-- #### 2001 The Global War on Terrorism begins as a result of the September 11 attacks. The U.S. invasion of Afghanistan initiates with an air assault and covert operations on the ground.
+- #### 2001 U.S. President George W. Bush announces the establishment of the Office of Homeland Security.
 
-  - [Global War on Terrorism](https://wikipedia.org/wiki/Global_War_on_Terrorism)
-  - [September 11 attacks](https://wikipedia.org/wiki/September_11_attacks)
-  - [War in Afghanistan (2001-2014)](https://wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932014))
+  - [George W. Bush](https://wikipedia.org/wiki/George_W._Bush)
+  - [United States Department of Homeland Security](https://wikipedia.org/wiki/United_States_Department_of_Homeland_Security)
 
-- #### 1998 Matthew Shepard, a gay student at the University of Wyoming, is found tied to a fence after being savagely beaten by two young adults in Laramie, Wyoming.
+- #### 2001 A twin engine Cessna and Scandinavian Airlines System (SAS) jetliner collide in heavy fog during takeoff from Milan, Italy, killing 118 people.
 
-  - [Matthew Shepard](https://wikipedia.org/wiki/Matthew_Shepard)
-  - [University of Wyoming](https://wikipedia.org/wiki/University_of_Wyoming)
-  - [Laramie, Wyoming](https://wikipedia.org/wiki/Laramie,_Wyoming)
+  - [Cessna](https://wikipedia.org/wiki/Cessna)
+  - [Scandinavian Airlines System](https://wikipedia.org/wiki/Scandinavian_Airlines_System)
+  - [Linate Airport disaster](https://wikipedia.org/wiki/Linate_Airport_disaster)
+  - [Milan](https://wikipedia.org/wiki/Milan)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
