@@ -1,36 +1,41 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--08%2000%3A10%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--09%2000%3A12%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - October, 8
+# What Happened On This Day - October, 9
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2016 In the wake of Hurricane Matthew, the death toll rises to nearly 900.
+- #### 2012 Members of the Pakistani Taliban make a failed attempt to assassinate an outspoken schoolgirl, Malala Yousafzai.
 
-  - [Hurricane Matthew](https://wikipedia.org/wiki/Hurricane_Matthew)
+  - [Taliban](https://wikipedia.org/wiki/Taliban)
+  - [Malala Yousafzai](https://wikipedia.org/wiki/Malala_Yousafzai)
 
-- #### 2014 Thomas Eric Duncan, the first person in the United States to be diagnosed with Ebola, dies.
+- #### 2009 First lunar impact of the Centaur and LCROSS spacecrafts as part of NASA's Lunar Precursor Robotic Program.
 
-  - [Thomas Eric Duncan](https://wikipedia.org/wiki/Thomas_Eric_Duncan)
-  - [Ebola virus cases in the United States](https://wikipedia.org/wiki/Ebola_virus_cases_in_the_United_States)
+  - [Moon](https://wikipedia.org/wiki/Moon)
+  - [LCROSS](https://wikipedia.org/wiki/LCROSS)
+  - [Spacecraft](https://wikipedia.org/wiki/Spacecraft)
+  - [NASA](https://wikipedia.org/wiki/NASA)
+  - [Lunar Precursor Robotic Program](https://wikipedia.org/wiki/Lunar_Precursor_Robotic_Program)
 
-- #### 2005 The 7.6 Mw Kashmir earthquake strikes with a maximum Mercalli intensity of VIII (Severe), leaving 86,000-87,351 people dead, 69,000-75,266 injured, and 2.8 million homeless.
+- #### 2006 North Korea conducts its first nuclear test.
 
-  - [2005 Kashmir earthquake](https://wikipedia.org/wiki/2005_Kashmir_earthquake)
-  - [Mercalli intensity scale](https://wikipedia.org/wiki/Mercalli_intensity_scale)
+  - [North Korea](https://wikipedia.org/wiki/North_Korea)
+  - [2006 North Korean nuclear test](https://wikipedia.org/wiki/2006_North_Korean_nuclear_test)
 
-- #### 2001 U.S. President George W. Bush announces the establishment of the Office of Homeland Security.
+- #### 2003 Mission: Space opens to the public in the Epcot park at Walt Disney World. The opening ceremony included several astronauts from all eras of space exploration.
 
-  - [George W. Bush](https://wikipedia.org/wiki/George_W._Bush)
-  - [United States Department of Homeland Security](https://wikipedia.org/wiki/United_States_Department_of_Homeland_Security)
+  - [Mission: Space](https://wikipedia.org/wiki/Mission:_Space)
+  - [Epcot](https://wikipedia.org/wiki/Epcot)
+  - [Walt Disney World](https://wikipedia.org/wiki/Walt_Disney_World)
 
-- #### 2001 A twin engine Cessna and Scandinavian Airlines System (SAS) jetliner collide in heavy fog during takeoff from Milan, Italy, killing 118 people.
+- #### 1995 An Amtrak Sunset Limited train is derailed by saboteurs near Palo Verde, Arizona.
 
-  - [Cessna](https://wikipedia.org/wiki/Cessna)
-  - [Scandinavian Airlines System](https://wikipedia.org/wiki/Scandinavian_Airlines_System)
-  - [Linate Airport disaster](https://wikipedia.org/wiki/Linate_Airport_disaster)
-  - [Milan](https://wikipedia.org/wiki/Milan)
+  - [Amtrak](https://wikipedia.org/wiki/Amtrak)
+  - [Sunset Limited](https://wikipedia.org/wiki/Sunset_Limited)
+  - [1995 Palo Verde, Arizona derailment](https://wikipedia.org/wiki/1995_Palo_Verde,_Arizona_derailment)
+  - [Palo Verde, Arizona](https://wikipedia.org/wiki/Palo_Verde,_Arizona)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
