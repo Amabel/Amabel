@@ -1,41 +1,37 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--09%2000%3A12%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--10%2000%3A12%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - October, 9
+# What Happened On This Day - October, 10
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2012 Members of the Pakistani Taliban make a failed attempt to assassinate an outspoken schoolgirl, Malala Yousafzai.
+- #### 2015 Twin bomb blasts in the Turkish capital Ankara near the main train station leave at least 102 people dead and over 400 wounded.
 
-  - [Taliban](https://wikipedia.org/wiki/Taliban)
-  - [Malala Yousafzai](https://wikipedia.org/wiki/Malala_Yousafzai)
+  - [2015 Ankara bombings](https://wikipedia.org/wiki/2015_Ankara_bombings)
+  - [Ankara](https://wikipedia.org/wiki/Ankara)
 
-- #### 2009 First lunar impact of the Centaur and LCROSS spacecrafts as part of NASA's Lunar Precursor Robotic Program.
+- #### 2010 The Netherlands Antilles are dissolved as a country.
 
-  - [Moon](https://wikipedia.org/wiki/Moon)
-  - [LCROSS](https://wikipedia.org/wiki/LCROSS)
-  - [Spacecraft](https://wikipedia.org/wiki/Spacecraft)
-  - [NASA](https://wikipedia.org/wiki/NASA)
-  - [Lunar Precursor Robotic Program](https://wikipedia.org/wiki/Lunar_Precursor_Robotic_Program)
+  - [Netherlands Antilles](https://wikipedia.org/wiki/Netherlands_Antilles)
 
-- #### 2006 North Korea conducts its first nuclear test.
+- #### 2009 Armenia and Turkey sign protocols in Zurich, Switzerland to open their borders.
 
-  - [North Korea](https://wikipedia.org/wiki/North_Korea)
-  - [2006 North Korean nuclear test](https://wikipedia.org/wiki/2006_North_Korean_nuclear_test)
+  - [Armenia](https://wikipedia.org/wiki/Armenia)
+  - [Turkey](https://wikipedia.org/wiki/Turkey)
 
-- #### 2003 Mission: Space opens to the public in the Epcot park at Walt Disney World. The opening ceremony included several astronauts from all eras of space exploration.
+- #### 1998 A Lignes Aériennes Congolaises Boeing 727 is shot down by rebels in Kindu, Democratic Republic of the Congo, killing 41 people.
 
-  - [Mission: Space](https://wikipedia.org/wiki/Mission:_Space)
-  - [Epcot](https://wikipedia.org/wiki/Epcot)
-  - [Walt Disney World](https://wikipedia.org/wiki/Walt_Disney_World)
+  - [Lignes Aériennes Congolaises](https://wikipedia.org/wiki/Lignes_A%C3%A9riennes_Congolaises)
+  - [Boeing 727](https://wikipedia.org/wiki/Boeing_727)
+  - [1998 Lignes Aériennes Congolaises crash](https://wikipedia.org/wiki/1998_Lignes_A%C3%A9riennes_Congolaises_crash)
+  - [Democratic Republic of the Congo](https://wikipedia.org/wiki/Democratic_Republic_of_the_Congo)
 
-- #### 1995 An Amtrak Sunset Limited train is derailed by saboteurs near Palo Verde, Arizona.
+- #### 1997 An Austral Airlines DC-9-32 crashes and explodes near Nuevo Berlin, Uruguay, killing 74.
 
-  - [Amtrak](https://wikipedia.org/wiki/Amtrak)
-  - [Sunset Limited](https://wikipedia.org/wiki/Sunset_Limited)
-  - [1995 Palo Verde, Arizona derailment](https://wikipedia.org/wiki/1995_Palo_Verde,_Arizona_derailment)
-  - [Palo Verde, Arizona](https://wikipedia.org/wiki/Palo_Verde,_Arizona)
+  - [Austral Líneas Aéreas](https://wikipedia.org/wiki/Austral_L%C3%ADneas_A%C3%A9reas)
+  - [McDonnell Douglas DC-9](https://wikipedia.org/wiki/McDonnell_Douglas_DC-9)
+  - [Uruguay](https://wikipedia.org/wiki/Uruguay)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
