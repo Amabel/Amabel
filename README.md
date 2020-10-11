@@ -1,37 +1,40 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--10%2000%3A12%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--11%2000%3A12%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - October, 10
+# What Happened On This Day - October, 11
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2015 Twin bomb blasts in the Turkish capital Ankara near the main train station leave at least 102 people dead and over 400 wounded.
+- #### 2013 A migrant boat sinks in the Channel of Sicily with at least 34 people dead.
 
-  - [2015 Ankara bombings](https://wikipedia.org/wiki/2015_Ankara_bombings)
-  - [Ankara](https://wikipedia.org/wiki/Ankara)
+  - [2013 Lampedusa migrant shipwreck](https://wikipedia.org/wiki/2013_Lampedusa_migrant_shipwreck)
+  - [Channel of Sicily](https://wikipedia.org/wiki/Channel_of_Sicily)
 
-- #### 2010 The Netherlands Antilles are dissolved as a country.
+- #### 2002 A bomb attack in a shopping mall in Vantaa, Finland kills seven.
 
-  - [Netherlands Antilles](https://wikipedia.org/wiki/Netherlands_Antilles)
+  - [Myyrmanni bombing](https://wikipedia.org/wiki/Myyrmanni_bombing)
+  - [Vantaa](https://wikipedia.org/wiki/Vantaa)
 
-- #### 2009 Armenia and Turkey sign protocols in Zurich, Switzerland to open their borders.
+- #### 2001 The Polaroid Corporation files for federal bankruptcy protection.
 
-  - [Armenia](https://wikipedia.org/wiki/Armenia)
-  - [Turkey](https://wikipedia.org/wiki/Turkey)
+  - [Polaroid Corporation](https://wikipedia.org/wiki/Polaroid_Corporation)
+  - [Bankruptcy](https://wikipedia.org/wiki/Bankruptcy)
 
-- #### 1998 A Lignes Aériennes Congolaises Boeing 727 is shot down by rebels in Kindu, Democratic Republic of the Congo, killing 41 people.
+- #### 2000 NASA launches STS-92, the 100th Space Shuttle mission, using Space Shuttle Discovery.
 
-  - [Lignes Aériennes Congolaises](https://wikipedia.org/wiki/Lignes_A%C3%A9riennes_Congolaises)
-  - [Boeing 727](https://wikipedia.org/wiki/Boeing_727)
-  - [1998 Lignes Aériennes Congolaises crash](https://wikipedia.org/wiki/1998_Lignes_A%C3%A9riennes_Congolaises_crash)
-  - [Democratic Republic of the Congo](https://wikipedia.org/wiki/Democratic_Republic_of_the_Congo)
+  - [STS-92](https://wikipedia.org/wiki/STS-92)
+  - [Space Shuttle](https://wikipedia.org/wiki/Space_Shuttle)
+  - [Space Shuttle Discovery](https://wikipedia.org/wiki/Space_Shuttle_Discovery)
 
-- #### 1997 An Austral Airlines DC-9-32 crashes and explodes near Nuevo Berlin, Uruguay, killing 74.
+- #### 1987 Start of Operation Pawan by Indian Peace Keeping Force in Sri Lanka that killed thousands of ethnic Tamil civilians and hundreds of Tamil Tigers and Indian Army soldiers.
 
-  - [Austral Líneas Aéreas](https://wikipedia.org/wiki/Austral_L%C3%ADneas_A%C3%A9reas)
-  - [McDonnell Douglas DC-9](https://wikipedia.org/wiki/McDonnell_Douglas_DC-9)
-  - [Uruguay](https://wikipedia.org/wiki/Uruguay)
+  - [Operation Pawan](https://wikipedia.org/wiki/Operation_Pawan)
+  - [Indian Peace Keeping Force](https://wikipedia.org/wiki/Indian_Peace_Keeping_Force)
+  - [Sri Lanka](https://wikipedia.org/wiki/Sri_Lanka)
+  - [Tamils](https://wikipedia.org/wiki/Tamils)
+  - [Tamil Tigers](https://wikipedia.org/wiki/Tamil_Tigers)
+  - [Indian Army](https://wikipedia.org/wiki/Indian_Army)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
