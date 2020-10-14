@@ -1,41 +1,36 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--13%2000%3A12%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--14%2000%3A12%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - October, 13
+# What Happened On This Day - October, 14
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2013 A stampede breaks out on a bridge near the Ratangarh Mata Temple in Datia district, Madhya Pradesh, India during the Hindu festival Navratri, killing 115 people and injuring more than 110.
+- #### 2017 A massive truck bombing in Somalia kills 358 people and injures more than 400 others.
 
-  - [2013 Madhya Pradesh stampede](https://wikipedia.org/wiki/2013_Madhya_Pradesh_stampede)
-  - [Datia district](https://wikipedia.org/wiki/Datia_district)
-  - [Madhya Pradesh](https://wikipedia.org/wiki/Madhya_Pradesh)
-  - [Navratri](https://wikipedia.org/wiki/Navratri)
+  - [14 October 2017 Mogadishu bombings](https://wikipedia.org/wiki/14_October_2017_Mogadishu_bombings)
+  - [Somalia](https://wikipedia.org/wiki/Somalia)
 
-- #### 2010 The mining accident in Copiapó, Chile comes to an end as all 33 miners arrive at the surface after surviving a record 69 days underground awaiting rescue.
+- #### 2015 A suicide bomb attack in Pakistan, kills at least seven people and injures 13 others.
 
-  - [2010 Copiapó mining accident](https://wikipedia.org/wiki/2010_Copiap%C3%B3_mining_accident)
+  - [Taunsa Sharif bombing](https://wikipedia.org/wiki/Taunsa_Sharif_bombing)
+  - [Pakistan](https://wikipedia.org/wiki/Pakistan)
 
-- #### 1992 An Antonov An-124 operated by Antonov Airlines registered CCCP-82002, crashes near Kiev, Ukraine killing eight.
+- #### 2014 Utah State University receives a bomb threat against feminist media critic Anita Sarkeesian, who was to give a lecture the next day.
 
-  - [Antonov An-124](https://wikipedia.org/wiki/Antonov_An-124)
-  - [Antonov Airlines](https://wikipedia.org/wiki/Antonov_Airlines)
-  - [Kiev](https://wikipedia.org/wiki/Kiev)
-  - [Ukraine](https://wikipedia.org/wiki/Ukraine)
+  - [Anita Sarkeesian](https://wikipedia.org/wiki/Anita_Sarkeesian)
 
-- #### 1990 End of the Lebanese Civil War. Syrian forces launch an attack on the free areas of Lebanon removing General Michel Aoun from the presidential palace.
+- #### 2014 A snowstorm and avalanche in the Nepalese Himalayas triggered by the remnants of Cyclone Hudhud kills 43 people.
 
-  - [Lebanese Civil War](https://wikipedia.org/wiki/Lebanese_Civil_War)
-  - [Syria](https://wikipedia.org/wiki/Syria)
-  - [Lebanon](https://wikipedia.org/wiki/Lebanon)
-  - [Michel Aoun](https://wikipedia.org/wiki/Michel_Aoun)
+  - [2014 Nepal snowstorm disaster](https://wikipedia.org/wiki/2014_Nepal_snowstorm_disaster)
+  - [Nepal](https://wikipedia.org/wiki/Nepal)
+  - [Himalayas](https://wikipedia.org/wiki/Himalayas)
+  - [Cyclone Hudhud](https://wikipedia.org/wiki/Cyclone_Hudhud)
 
-- #### 1983 Ameritech Mobile Communications (now AT&T) launched the first US cellular network in Chicago.
+- #### 2012 Felix Baumgartner successfully jumped to Earth from a helium balloon in the stratosphere in the Red Bull Stratos project.
 
-  - [Ameritech Mobile Communications](https://wikipedia.org/wiki/Ameritech_Mobile_Communications)
-  - [AT&T](https://wikipedia.org/wiki/AT%26T)
-  - [Cellular network](https://wikipedia.org/wiki/Cellular_network)
+  - [Felix Baumgartner](https://wikipedia.org/wiki/Felix_Baumgartner)
+  - [Red Bull Stratos](https://wikipedia.org/wiki/Red_Bull_Stratos)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
