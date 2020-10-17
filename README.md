@@ -1,43 +1,39 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--16%2000%3A13%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--17%2000%3A13%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - October, 16
+# What Happened On This Day - October, 17
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2017 Hurricane Ophelia makes eerie red sun and yellow sky from Sahara dust and ashes from Iberia causes 200,000 homes in Ireland without power and damage
+- #### 2003 The pinnacle is fitted on the roof of Taipei 101, a 101-floor skyscraper in Taipei, allowing it to surpass the Petronas Twin Towers in Kuala Lumpur by 56 metres (184 ft) and become the world's tallest highrise.
 
-  - [Hurricane Ophelia (2017)](https://wikipedia.org/wiki/Hurricane_Ophelia_(2017))
-  - [Sahara](https://wikipedia.org/wiki/Sahara)
-  - [Iberia](https://wikipedia.org/wiki/Iberia)
-  - [Ireland](https://wikipedia.org/wiki/Ireland)
+  - [Taipei 101](https://wikipedia.org/wiki/Taipei_101)
+  - [Skyscraper](https://wikipedia.org/wiki/Skyscraper)
+  - [Taipei](https://wikipedia.org/wiki/Taipei)
+  - [Petronas Twin Towers](https://wikipedia.org/wiki/Petronas_Twin_Towers)
+  - [Kuala Lumpur](https://wikipedia.org/wiki/Kuala_Lumpur)
+  - [World's tallest structures](https://wikipedia.org/wiki/World%27s_tallest_structures)
 
-- #### 2013 Lao Airlines Flight 301 crashes on approach to Pakse International Airport in Laos, killing 49 people.
+- #### 2001 Israeli tourism minister Rehavam Ze'evi becomes the first Israeli minister to be assassinated in a terrorist attack.
 
-  - [Lao Airlines Flight 301](https://wikipedia.org/wiki/Lao_Airlines_Flight_301)
-  - [Pakse International Airport](https://wikipedia.org/wiki/Pakse_International_Airport)
-  - [Laos](https://wikipedia.org/wiki/Laos)
+  - [Rehavam Ze'evi](https://wikipedia.org/wiki/Rehavam_Ze%27evi)
+  - [Assassination of Rehavam Ze'evi](https://wikipedia.org/wiki/Assassination_of_Rehavam_Ze%27evi)
 
-- #### 2002 Bibliotheca Alexandrina in the Egyptian city of Alexandria, a commemoration of the Library of Alexandria that was lost in antiquity, is officially inaugurated.
+- #### 2000 Train crash at Hatfield, north of London, leading to collapse of Railtrack.
 
-  - [Bibliotheca Alexandrina](https://wikipedia.org/wiki/Bibliotheca_Alexandrina)
-  - [Alexandria](https://wikipedia.org/wiki/Alexandria)
-  - [Library of Alexandria](https://wikipedia.org/wiki/Library_of_Alexandria)
-  - [Classical antiquity](https://wikipedia.org/wiki/Classical_antiquity)
+  - [Hatfield rail crash](https://wikipedia.org/wiki/Hatfield_rail_crash)
+  - [Hatfield, Hertfordshire](https://wikipedia.org/wiki/Hatfield,_Hertfordshire)
+  - [Railtrack](https://wikipedia.org/wiki/Railtrack)
 
-- #### 1998 Former Chilean dictator General Augusto Pinochet is arrested in London on a warrant from Spain requesting his extradition on murder charges.
+- #### 1994 Russian journalist Dmitry Kholodov is assassinated while investigating corruption in the armed forces.
 
-  - [Chile](https://wikipedia.org/wiki/Chile)
-  - [Augusto Pinochet](https://wikipedia.org/wiki/Augusto_Pinochet)
-  - [Indictment and arrest of Augusto Pinochet](https://wikipedia.org/wiki/Indictment_and_arrest_of_Augusto_Pinochet)
-  - [Extradition](https://wikipedia.org/wiki/Extradition)
+  - [Dmitry Kholodov](https://wikipedia.org/wiki/Dmitry_Kholodov)
 
-- #### 1996 Eighty-four people are killed and more than 180 injured as 47,000 football fans attempt to squeeze into the 36,000-seat Estadio Mateo Flores in Guatemala City.
+- #### 1992 Having gone to the wrong house for a Halloween party, Japanese exchange student Yoshihiro Hattori is shot and killed by the homeowner in Baton Rouge, Louisiana.
 
-  - [Association football](https://wikipedia.org/wiki/Association_football)
-  - [Estadio Mateo Flores](https://wikipedia.org/wiki/Estadio_Mateo_Flores)
-  - [Guatemala City](https://wikipedia.org/wiki/Guatemala_City)
+  - [Death of Yoshihiro Hattori](https://wikipedia.org/wiki/Death_of_Yoshihiro_Hattori)
+  - [Baton Rouge, Louisiana](https://wikipedia.org/wiki/Baton_Rouge,_Louisiana)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
