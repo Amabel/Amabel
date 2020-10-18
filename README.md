@@ -1,39 +1,40 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--17%2000%3A13%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--18%2000%3A13%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - October, 17
+# What Happened On This Day - October, 18
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2003 The pinnacle is fitted on the roof of Taipei 101, a 101-floor skyscraper in Taipei, allowing it to surpass the Petronas Twin Towers in Kuala Lumpur by 56 metres (184 ft) and become the world's tallest highrise.
+- #### 2007 Karachi bombing: A suicide attack on a motorcade carrying former Pakistani Prime Minister Benazir Bhutto kills 139 and wounds 450 more. Bhutto herself was uninjured.
 
-  - [Taipei 101](https://wikipedia.org/wiki/Taipei_101)
-  - [Skyscraper](https://wikipedia.org/wiki/Skyscraper)
-  - [Taipei](https://wikipedia.org/wiki/Taipei)
-  - [Petronas Twin Towers](https://wikipedia.org/wiki/Petronas_Twin_Towers)
-  - [Kuala Lumpur](https://wikipedia.org/wiki/Kuala_Lumpur)
-  - [World's tallest structures](https://wikipedia.org/wiki/World%27s_tallest_structures)
+  - [2007 Karachi bombing](https://wikipedia.org/wiki/2007_Karachi_bombing)
+  - [Prime Minister of Pakistan](https://wikipedia.org/wiki/Prime_Minister_of_Pakistan)
+  - [Benazir Bhutto](https://wikipedia.org/wiki/Benazir_Bhutto)
 
-- #### 2001 Israeli tourism minister Rehavam Ze'evi becomes the first Israeli minister to be assassinated in a terrorist attack.
+- #### 2003 Bolivian gas conflict: Bolivian President Gonzalo Sánchez de Lozada, is forced to resign and leave Bolivia.
 
-  - [Rehavam Ze'evi](https://wikipedia.org/wiki/Rehavam_Ze%27evi)
-  - [Assassination of Rehavam Ze'evi](https://wikipedia.org/wiki/Assassination_of_Rehavam_Ze%27evi)
+  - [Bolivian gas conflict](https://wikipedia.org/wiki/Bolivian_gas_conflict)
+  - [Bolivia](https://wikipedia.org/wiki/Bolivia)
+  - [Gonzalo Sánchez de Lozada](https://wikipedia.org/wiki/Gonzalo_S%C3%A1nchez_de_Lozada)
 
-- #### 2000 Train crash at Hatfield, north of London, leading to collapse of Railtrack.
+- #### 1991 The Supreme Council of Azerbaijan adopts a declaration of independence from the Soviet Union.
 
-  - [Hatfield rail crash](https://wikipedia.org/wiki/Hatfield_rail_crash)
-  - [Hatfield, Hertfordshire](https://wikipedia.org/wiki/Hatfield,_Hertfordshire)
-  - [Railtrack](https://wikipedia.org/wiki/Railtrack)
+  - [Azerbaijan](https://wikipedia.org/wiki/Azerbaijan)
+  - [Soviet Union](https://wikipedia.org/wiki/Soviet_Union)
 
-- #### 1994 Russian journalist Dmitry Kholodov is assassinated while investigating corruption in the armed forces.
+- #### 1979 The Federal Communications Commission (FCC) begins allowing people to have home satellite earth stations without a federal government license.
 
-  - [Dmitry Kholodov](https://wikipedia.org/wiki/Dmitry_Kholodov)
+  - [Federal Communications Commission (FCC)](https://wikipedia.org/wiki/Federal_Communications_Commission_(FCC))
+  - [Satellite television](https://wikipedia.org/wiki/Satellite_television)
 
-- #### 1992 Having gone to the wrong house for a Halloween party, Japanese exchange student Yoshihiro Hattori is shot and killed by the homeowner in Baton Rouge, Louisiana.
+- #### 1977 German Autumn: a set of events revolving around the kidnapping of Hanns Martin Schleyer and the hijacking of a Lufthansa flight by the Red Army Faction (RAF) comes to an end when Schleyer is murdered and various RAF members allegedly commit suicide.
 
-  - [Death of Yoshihiro Hattori](https://wikipedia.org/wiki/Death_of_Yoshihiro_Hattori)
-  - [Baton Rouge, Louisiana](https://wikipedia.org/wiki/Baton_Rouge,_Louisiana)
+  - [German Autumn](https://wikipedia.org/wiki/German_Autumn)
+  - [Hanns Martin Schleyer](https://wikipedia.org/wiki/Hanns_Martin_Schleyer)
+  - [Aircraft hijacking](https://wikipedia.org/wiki/Aircraft_hijacking)
+  - [Lufthansa](https://wikipedia.org/wiki/Lufthansa)
+  - [Red Army Faction](https://wikipedia.org/wiki/Red_Army_Faction)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
