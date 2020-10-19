@@ -1,40 +1,37 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--18%2000%3A13%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--19%2000%3A13%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - October, 18
+# What Happened On This Day - October, 19
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2007 Karachi bombing: A suicide attack on a motorcade carrying former Pakistani Prime Minister Benazir Bhutto kills 139 and wounds 450 more. Bhutto herself was uninjured.
+- #### 2013 At least 105 people are injured in a train crash at the Once railway station in Buenos Aires.
 
-  - [2007 Karachi bombing](https://wikipedia.org/wiki/2007_Karachi_bombing)
-  - [Prime Minister of Pakistan](https://wikipedia.org/wiki/Prime_Minister_of_Pakistan)
-  - [Benazir Bhutto](https://wikipedia.org/wiki/Benazir_Bhutto)
+  - [2013 Buenos Aires train crash](https://wikipedia.org/wiki/2013_Buenos_Aires_train_crash)
+  - [Once railway station](https://wikipedia.org/wiki/Once_railway_station)
+  - [Buenos Aires](https://wikipedia.org/wiki/Buenos_Aires)
 
-- #### 2003 Bolivian gas conflict: Bolivian President Gonzalo Sánchez de Lozada, is forced to resign and leave Bolivia.
+- #### 2012 A bomb explosion kills eight people and injures 110 people in Beirut, Lebanon.
 
-  - [Bolivian gas conflict](https://wikipedia.org/wiki/Bolivian_gas_conflict)
-  - [Bolivia](https://wikipedia.org/wiki/Bolivia)
-  - [Gonzalo Sánchez de Lozada](https://wikipedia.org/wiki/Gonzalo_S%C3%A1nchez_de_Lozada)
+  - [October 2012 Beirut bombing](https://wikipedia.org/wiki/October_2012_Beirut_bombing)
+  - [Beirut](https://wikipedia.org/wiki/Beirut)
 
-- #### 1991 The Supreme Council of Azerbaijan adopts a declaration of independence from the Soviet Union.
+- #### 2005 Hurricane Wilma becomes the most intense Atlantic hurricane on record with a minimum pressure of 882 mb.
 
-  - [Azerbaijan](https://wikipedia.org/wiki/Azerbaijan)
-  - [Soviet Union](https://wikipedia.org/wiki/Soviet_Union)
+  - [Hurricane Wilma](https://wikipedia.org/wiki/Hurricane_Wilma)
 
-- #### 1979 The Federal Communications Commission (FCC) begins allowing people to have home satellite earth stations without a federal government license.
+- #### 2005 Saddam Hussein goes on trial in Baghdad for crimes against humanity.
 
-  - [Federal Communications Commission (FCC)](https://wikipedia.org/wiki/Federal_Communications_Commission_(FCC))
-  - [Satellite television](https://wikipedia.org/wiki/Satellite_television)
+  - [Saddam Hussein](https://wikipedia.org/wiki/Saddam_Hussein)
+  - [Trial of Saddam Hussein](https://wikipedia.org/wiki/Trial_of_Saddam_Hussein)
+  - [Crimes against humanity](https://wikipedia.org/wiki/Crimes_against_humanity)
 
-- #### 1977 German Autumn: a set of events revolving around the kidnapping of Hanns Martin Schleyer and the hijacking of a Lufthansa flight by the Red Army Faction (RAF) comes to an end when Schleyer is murdered and various RAF members allegedly commit suicide.
+- #### 2003 Mother Teresa is beatified by Pope John Paul II.
 
-  - [German Autumn](https://wikipedia.org/wiki/German_Autumn)
-  - [Hanns Martin Schleyer](https://wikipedia.org/wiki/Hanns_Martin_Schleyer)
-  - [Aircraft hijacking](https://wikipedia.org/wiki/Aircraft_hijacking)
-  - [Lufthansa](https://wikipedia.org/wiki/Lufthansa)
-  - [Red Army Faction](https://wikipedia.org/wiki/Red_Army_Faction)
+  - [Mother Teresa](https://wikipedia.org/wiki/Mother_Teresa)
+  - [Beatification](https://wikipedia.org/wiki/Beatification)
+  - [Pope John Paul II](https://wikipedia.org/wiki/Pope_John_Paul_II)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
