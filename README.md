@@ -1,43 +1,38 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--21%2000%3A13%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--22%2000%3A13%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - October, 21
+# What Happened On This Day - October, 22
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2005 Images of the dwarf planet Eris are taken and subsequently used in documenting its discovery by the team of Michael E. Brown, Chad Trujillo, and David L. Rabinowitz.
+- #### 2014 Michael Zehaf-Bibeau attacks the Parliament of Canada in Ottawa, Ontario, Canada, killing a soldier and injuring three other people.
 
-  - [Dwarf planet](https://wikipedia.org/wiki/Dwarf_planet)
-  - [136199 Eris](https://wikipedia.org/wiki/136199_Eris)
-  - [Michael E. Brown](https://wikipedia.org/wiki/Michael_E._Brown)
-  - [Chad Trujillo](https://wikipedia.org/wiki/Chad_Trujillo)
-  - [David L. Rabinowitz](https://wikipedia.org/wiki/David_L._Rabinowitz)
+  - [2014 shootings at Parliament Hill, Ottawa](https://wikipedia.org/wiki/2014_shootings_at_Parliament_Hill,_Ottawa)
+  - [Parliament of Canada](https://wikipedia.org/wiki/Parliament_of_Canada)
+  - [Ottawa](https://wikipedia.org/wiki/Ottawa)
 
-- #### 1994 In Seoul, 32 people are killed when the Seongsu Bridge collapses.
+- #### 2013 The Australian Capital Territory becomes the first Australian jurisdiction to legalize same-sex marriage with the Marriage Equality (Same Sex) Act 2013
 
-  - [Seoul](https://wikipedia.org/wiki/Seoul)
-  - [Seongsu Bridge](https://wikipedia.org/wiki/Seongsu_Bridge)
+  - [Australian Capital Territory](https://wikipedia.org/wiki/Australian_Capital_Territory)
+  - [Same-sex marriage](https://wikipedia.org/wiki/Same-sex_marriage)
+  - [Marriage Equality (Same Sex) Act 2013](https://wikipedia.org/wiki/Marriage_Equality_(Same_Sex)_Act_2013)
 
-- #### 1994 North Korea nuclear weapons program: North Korea and the United States sign an Agreed Framework that requires North Korea to stop its nuclear weapons program and agree to inspections.
+- #### 2008 India launches its first unmanned lunar mission Chandrayaan-1.
 
-  - [North Korea and weapons of mass destruction](https://wikipedia.org/wiki/North_Korea_and_weapons_of_mass_destruction)
-  - [North Korea](https://wikipedia.org/wiki/North_Korea)
-  - [Agreed Framework](https://wikipedia.org/wiki/Agreed_Framework)
-  - [Nuclear weapon](https://wikipedia.org/wiki/Nuclear_weapon)
+  - [Chandrayaan-1](https://wikipedia.org/wiki/Chandrayaan-1)
 
-- #### 1987 Jaffna hospital massacre is carried out by Indian Peace Keeping Force in Sri Lanka killing 70 ethnic Tamil patients, doctors and nurses.
+- #### 2007 Raid on Anuradhapura Air Force Base is carried out by 21 Tamil Tiger commandos. All except one died in this attack. Eight Sri Lanka Air Force planes are destroyed and 10 damaged.
 
-  - [Jaffna hospital massacre](https://wikipedia.org/wiki/Jaffna_hospital_massacre)
-  - [Indian Peace Keeping Force](https://wikipedia.org/wiki/Indian_Peace_Keeping_Force)
-  - [Sri Lanka](https://wikipedia.org/wiki/Sri_Lanka)
-  - [Tamils](https://wikipedia.org/wiki/Tamils)
+  - [Raid on Anuradhapura Air Force Base](https://wikipedia.org/wiki/Raid_on_Anuradhapura_Air_Force_Base)
+  - [Liberation Tigers of Tamil Eelam](https://wikipedia.org/wiki/Liberation_Tigers_of_Tamil_Eelam)
+  - [Sri Lanka Air Force](https://wikipedia.org/wiki/Sri_Lanka_Air_Force)
 
-- #### 1986 In Lebanon, pro-Iran kidnappers claim to have abducted American writer Edward Tracy (he is released in August 1991).
+- #### 2006 A Panama Canal expansion proposal is approved by 77.8% of voters in a National referendum held in Panama.
 
-  - [Lebanon](https://wikipedia.org/wiki/Lebanon)
-  - [Iran](https://wikipedia.org/wiki/Iran)
-  - [Iran-Contra affair](https://wikipedia.org/wiki/Iran%E2%80%93Contra_affair)
+  - [Panama Canal expansion proposal](https://wikipedia.org/wiki/Panama_Canal_expansion_proposal)
+  - [Panama Canal expansion referendum, 2006](https://wikipedia.org/wiki/Panama_Canal_expansion_referendum,_2006)
+  - [Panama](https://wikipedia.org/wiki/Panama)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
