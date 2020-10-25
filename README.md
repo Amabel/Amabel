@@ -1,38 +1,41 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--24%2000%3A13%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--25%2000%3A14%20(UTC)-brightgreen?style=for-the-badge">
 
 (updated every 24 hours)
 
-# What Happened On This Day - October, 24
+# What Happened On This Day - October, 25
 
 <img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2016 A Fairchild Merlin airliner on a French surveillance mission crashes in Kirkop, Malta, killing all five people on board.
+- #### 2009 The October 2009 Baghdad bombings kills 155 and wounds at least 721.
 
-  - [Fairchild Swearingen Metroliner](https://wikipedia.org/wiki/Fairchild_Swearingen_Metroliner)
-  - [2016 Malta Fairchild Merlin crash](https://wikipedia.org/wiki/2016_Malta_Fairchild_Merlin_crash)
-  - [Kirkop](https://wikipedia.org/wiki/Kirkop)
+  - [October 2009 Baghdad bombings](https://wikipedia.org/wiki/October_2009_Baghdad_bombings)
 
-- #### 2015 A driver, arrested on suspicion of driving under the influence (DUI), crashes into the Oklahoma State Homecoming parade in Stillwater, Oklahoma, killing four people and injuring 34.
+- #### 1997 After a brief civil war which has driven President Pascal Lissouba out of Brazzaville, Denis Sassou Nguesso proclaims himself the President of the Republic of the Congo.
 
-  - [2015 Oklahoma State University homecoming parade crash](https://wikipedia.org/wiki/2015_Oklahoma_State_University_homecoming_parade_crash)
-  - [Oklahoma State University-Stillwater](https://wikipedia.org/wiki/Oklahoma_State_University%E2%80%93Stillwater)
-  - [Stillwater, Oklahoma](https://wikipedia.org/wiki/Stillwater,_Oklahoma)
+  - [Republic of the Congo Civil War (1997-99)](https://wikipedia.org/wiki/Republic_of_the_Congo_Civil_War_(1997-99))
+  - [Pascal Lissouba](https://wikipedia.org/wiki/Pascal_Lissouba)
+  - [Brazzaville](https://wikipedia.org/wiki/Brazzaville)
+  - [Denis Sassou Nguesso](https://wikipedia.org/wiki/Denis_Sassou_Nguesso)
+  - [Republic of the Congo](https://wikipedia.org/wiki/Republic_of_the_Congo)
 
-- #### 2014 The China National Space Administration launches an experimental lunar mission, Chang'e 5-T1, which will loop behind the Moon and return to Earth.
+- #### 1995 A commuter train slams into a school bus in Fox River Grove, Illinois, killing seven students.
 
-  - [China National Space Administration](https://wikipedia.org/wiki/China_National_Space_Administration)
-  - [Chang'e 5-T1](https://wikipedia.org/wiki/Chang%27e_5-T1)
+  - [1995 Fox River Grove bus-train collision](https://wikipedia.org/wiki/1995_Fox_River_Grove_bus%E2%80%93train_collision)
+  - [Fox River Grove, Illinois](https://wikipedia.org/wiki/Fox_River_Grove,_Illinois)
 
-- #### 2008 "Bloody Friday" saw many of the world's stock exchanges experience the worst declines in their history, with drops of around 10% in most indices.
+- #### 1983 Operation Urgent Fury: The United States and its Caribbean allies invade Grenada, six days after Prime Minister Maurice Bishop and several of his supporters are executed in a coup d'état.
 
-  - [Stock market crash](https://wikipedia.org/wiki/Stock_market_crash#Bloody_Friday)
-  - [Stock exchange](https://wikipedia.org/wiki/Stock_exchange)
+  - [Invasion of Grenada](https://wikipedia.org/wiki/Invasion_of_Grenada)
+  - [Grenada](https://wikipedia.org/wiki/Grenada)
+  - [Prime Minister of Grenada](https://wikipedia.org/wiki/Prime_Minister_of_Grenada)
+  - [Maurice Bishop](https://wikipedia.org/wiki/Maurice_Bishop)
+  - [Capital punishment](https://wikipedia.org/wiki/Capital_punishment)
+  - [Coup d'état](https://wikipedia.org/wiki/Coup_d%27%C3%A9tat)
 
-- #### 2007 Chang'e 1, the first satellite in the Chinese Lunar Exploration Program, is launched from Xichang Satellite Launch Center.
+- #### 1980 Proceedings on the Hague Convention on the Civil Aspects of International Child Abduction conclude at The Hague.
 
-  - [Chang'e 1](https://wikipedia.org/wiki/Chang%27e_1)
-  - [Chinese Lunar Exploration Program](https://wikipedia.org/wiki/Chinese_Lunar_Exploration_Program)
-  - [Xichang Satellite Launch Center](https://wikipedia.org/wiki/Xichang_Satellite_Launch_Center)
+  - [Hague Convention on the Civil Aspects of International Child Abduction](https://wikipedia.org/wiki/Hague_Convention_on_the_Civil_Aspects_of_International_Child_Abduction)
+  - [The Hague](https://wikipedia.org/wiki/The_Hague)
 ---
 
 Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
