@@ -1,41 +1,52 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--26%2000%3A14%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--26%2010%3A25%20(UTC)-brightgreen?style=for-the-badge">
 
-(updated every 24 hours)
 
-# What Happened On This Day - October, 26
+![Amabel's github stats](https://github-readme-stats.vercel.app/api?username=amabel)
 
-<img align="right" src="https://user-images.githubusercontent.com/12688422/87848414-3e9d0800-c91b-11ea-84df-7ebcb2c52b8d.png" width="80px">
 
-- #### 2017 -Jacinda Ardern is sworn as the 40th Prime Minister of New Zealand following a coalition deal between the New Zealand Labour Party and New Zealand First, she is also the youngest prime minister in New Zealand's history aged 37. None
+# 🛠️ Skills and Tools
 
-  - [2017](https://wikipedia.org/wiki/2017)
-  - [Jacinda Ardern](https://wikipedia.org/wiki/Jacinda_Ardern)
-  - [Prime Minister of New Zealand](https://wikipedia.org/wiki/Prime_Minister_of_New_Zealand)
-  - [New Zealand Labour Party](https://wikipedia.org/wiki/New_Zealand_Labour_Party)
-  - [New Zealand First](https://wikipedia.org/wiki/New_Zealand_First)
-  - [New Zealand's](https://wikipedia.org/wiki/New_Zealand%27s)
+[![](https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=white)](https://www.ecma-international.org/)
+[![](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)](https://angular.io/)
+[![](https://img.shields.io/badge/-Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)](https://www.ruby-lang.org/en/)
+[![](https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white)](https://rubyonrails.org/)
+[![](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat-square&logo=vue.js&logoColor=ffffff)](https://vuejs.org/)
+[![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
+[![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
+[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
+[![](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
+[![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
+[![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/)
+[![](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)](https://www.electronjs.org/)
+[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 
-- #### 2017 Royal cremation of Bhumibol Adulyadej at the Sanam Luang, Bangkok.
+[![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io/)
+[![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 
-  - [Death and funeral of Bhumibol Adulyadej](https://wikipedia.org/wiki/Death_and_funeral_of_Bhumibol_Adulyadej)
-  - [Bhumibol Adulyadej](https://wikipedia.org/wiki/Bhumibol_Adulyadej)
-  - [Sanam Luang](https://wikipedia.org/wiki/Sanam_Luang)
-  - [Bangkok](https://wikipedia.org/wiki/Bangkok)
+[![](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![](https://img.shields.io/badge/-NPM-cb3837?style=flat-square&logo=npm&logoColor=white)](https://npmjs.com/)
+[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.linuxfoundation.org/)
+[![](https://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=white)](https://www.debian.org/)
+[![](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
 
-- #### 2016 An earthquake of magnitude 6.6 strikes central Italy.
 
-  - [October 2016 Central Italy earthquakes](https://wikipedia.org/wiki/October_2016_Central_Italy_earthquakes)
-
-- #### 2015 A 7.5 magnitude earthquake strikes in the Hindu Kush mountain range in northeastern Afghanistan, killing 398 people and leaving 2,536 people injured.
-
-  - [October 2015 Hindu Kush earthquake](https://wikipedia.org/wiki/October_2015_Hindu_Kush_earthquake)
-  - [Hindu Kush](https://wikipedia.org/wiki/Hindu_Kush)
-
-- #### 2004 GTA San Andreas makes its debut.
-
-  - [GTA San Andreas](https://wikipedia.org/wiki/GTA_San_Andreas)
----
-
-Data sources: [Wikipedia, On this Day](https://byabbe.se/on-this-day/)
-
-Automatically updated by [Amabel/revenant](https://github.com/Amabel/revenant)
+## 📊 Development Breakdown (Since 2020-10-19)
+```
+JavaScript   3 hrs 59 mins     ███████▊░░░░░░░░░░░░░░░░░░░░░░ 25.9%
+Vue.js       2 hrs 28 mins     ████▊░░░░░░░░░░░░░░░░░░░░░░░░░ 16.0%
+Python        1 hr 47 mins     ███▍░░░░░░░░░░░░░░░░░░░░░░░░░░ 11.6%
+TypeScript    1 hr 30 mins     ██▉░░░░░░░░░░░░░░░░░░░░░░░░░░░  9.7%
+YAML           1 hr 4 mins     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  6.9%
+HTML           1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  6.9%
+Other          1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░  6.8%
+CSS                38 mins     █▎░░░░░░░░░░░░░░░░░░░░░░░░░░░░  4.2%
+Markdown           34 mins     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.7%
+JSON               33 mins     █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  3.6%
+Ruby               23 mins     ▊░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  2.6%
+```
