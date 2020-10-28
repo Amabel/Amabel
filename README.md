@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--27%2000%3A14%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--10--28%2000%3A14%20(UTC)-brightgreen?style=for-the-badge">
 
 
 ![Amabel's github stats](https://github-readme-stats.vercel.app/api?username=amabel)
@@ -36,7 +36,7 @@
 [![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
 
 
-## 📊 Development Breakdown (Since 2020-10-19)
+# 📊 Development Breakdown (Since 2020-10-19)
 ```
 JavaScript   3 hrs 59 mins     ██████▊░░░░░░░░░░░░░░░░░░░░░░░ 22.8%
 Vue.js       2 hrs 28 mins     ████▏░░░░░░░░░░░░░░░░░░░░░░░░░ 14.1%
