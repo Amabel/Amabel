@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2020--11--07%2007%3A00%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2020--11--08%2000%3A09%20(UTC)-brightgreen?style=for-the-badge">
 
 
 ![Amabel's github stats](https://github-readme-stats.vercel.app/api?username=amabel)
@@ -36,7 +36,7 @@
 [![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
 
 
-# 📊 Development Breakdown (Since 2020-10-19)
+# 📊 Development Breakdown (last year)
 ```
 Ruby         6 hrs 55 mins     ███████████████████████░░░░░░░ 21.9%
 JavaScript   4 hrs 17 mins     ██████████████▎░░░░░░░░░░░░░░░ 13.6%
