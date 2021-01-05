@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2021--01--04%2000%3A24%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2021--01--05%2000%3A24%20(UTC)-brightgreen?style=for-the-badge">
 
 
 ![Amabel's github stats](https://github-readme-stats.vercel.app/api?username=amabel)
@@ -41,7 +41,7 @@
 TypeScript     33 hrs 2 mins     ██████████████████████▉░░░░░░░ 21.9%
 Ruby          24 hrs 26 mins     ████████████████▉░░░░░░░░░░░░░ 16.2%
 JavaScript    21 hrs 26 mins     ██████████████▉░░░░░░░░░░░░░░░ 14.2%
-Other         14 hrs 18 mins     █████████▉░░░░░░░░░░░░░░░░░░░░  9.5%
+Other         14 hrs 19 mins     █████████▉░░░░░░░░░░░░░░░░░░░░  9.5%
 HTML          10 hrs 59 mins     ███████▋░░░░░░░░░░░░░░░░░░░░░░  7.3%
 JSON           7 hrs 53 mins     █████▍░░░░░░░░░░░░░░░░░░░░░░░░  5.2%
 SCSS           6 hrs 52 mins     ████▊░░░░░░░░░░░░░░░░░░░░░░░░░  4.5%
