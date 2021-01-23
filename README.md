@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/last%20updated%20at-2021--01--22%2000%3A41%20(UTC)-brightgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/last%20updated%20at-2021--01--23%2000%3A42%20(UTC)-brightgreen?style=for-the-badge">
 
 
 ![Amabel's github stats](https://github-readme-stats.vercel.app/api?username=amabel)
