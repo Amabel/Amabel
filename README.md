@@ -39,4 +39,4 @@
 
 ---
 
-![Wakatime stats](https://n4f6tu2ms5.execute-api.ap-northeast-1.amazonaws.com/prod/api/wakatime?username=Amabel&layout=compact&langs_count=14&range=last_year&theme=vue)
+![Wakatime stats](https://n4f6tu2ms5.execute-api.ap-northeast-1.amazonaws.com/prod/api/wakatime?username=Amabel&layout=compact&langs_count=8&range=last_year&theme=vue)
