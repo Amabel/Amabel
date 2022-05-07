@@ -2,7 +2,7 @@
 <img src="https://b2vtnvaihd.execute-api.ap-northeast-1.amazonaws.com/prod?scope=Amabel&name=Amabel&theme=clouds&background=transparent">
 </p>
 
-![Amabel's github stats](https://n4f6tu2ms5.execute-api.ap-northeast-1.amazonaws.com/prod/api/stats?username=Amabel&include_all_commits=true&custom_title=Amabel%27s%20GitHub%20Stats&theme=vue)
+![Amabel's github stats](https://n4f6tu2ms5.execute-api.ap-northeast-1.amazonaws.com/prod/api/stats)
 
 # 🛠️ Skills and Tools
 
