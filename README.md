@@ -32,7 +32,7 @@
 [![](https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
 [![](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)](https://www.figma.com/ui-design-tool/)
-
+[![](https://img.shields.io/badge/-Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)](https://www.datadoghq.com/)
 ---
 
 ![Wakatime stats](https://n4f6tu2ms5.execute-api.ap-northeast-1.amazonaws.com/prod/api/wakatime)
