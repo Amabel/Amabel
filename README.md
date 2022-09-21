@@ -34,6 +34,8 @@
 [![](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org/)
 
----
+# 📊 Wakatime 
+
+[![wakatime](https://wakatime.com/badge/user/ed8c9e2b-e294-48ad-a356-f6bd8683aa18.svg?style=for-the-badge)](https://wakatime.com/@ed8c9e2b-e294-48ad-a356-f6bd8683aa18)
 
 ![Wakatime stats](https://n4f6tu2ms5.execute-api.ap-northeast-1.amazonaws.com/prod/api/wakatime)
